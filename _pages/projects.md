@@ -1,17 +1,3 @@
-================================================================
-INSTRUCTIONS
-================================================================
-1. For each file below, create a new file on GitHub at the path shown
-2. Copy everything between the START and END markers into that file
-3. projects.md goes in _pages/
-4. All other files go in _projects/
-5. Upload cover images to assets/img/projects/ matching the img: filename
-================================================================
-
-
-================================================================
-FILE: _pages/projects.md
-================================================================
 ---
 layout: page
 title: Projects
