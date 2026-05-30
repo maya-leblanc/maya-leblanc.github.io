@@ -1,6 +1,6 @@
 ---
 layout: page
-title: awards & honours
+title: Awards & Honours
 permalink: /awards/
 description: A selection of awards, honours, and recognitions received across research, engineering, leadership, and community contributions.
 nav: true
@@ -15,13 +15,9 @@ nav_order: 5
 |:----:|-------|-------------|
 | 2024 | 🥇 **ISEF Fourth Place Grand Award — Biomedical and Health Sciences** | Regeneron ISEF |
 | 2024 | 🥈 **CWSF Silver Merit Award** | Canada-Wide Science Fair |
-| 2024 | **CWSF International Science and Engineering Fair Trip Award** | Canada-Wide Science Fair |
-| 2024 | CWSF Canada-Wide Science Fair Trip Award | Canada-Wide Science Fair |
 | 2023 | CWSF Bronze Merit Award | Canada-Wide Science Fair |
-| 2023 | CWSF Canada-Wide Science Fair Trip Award | Canada-Wide Science Fair |
 | 2022 | CWSF Bronze Merit Award | Canada-Wide Science Fair |
 | 2022 | CWSF Intact Climate Change Resilience Special Award | Canada-Wide Science Fair |
-| 2022 | CWSF Canada-Wide Science Fair Trip Award | Canada-Wide Science Fair |
 
 <br>
 
@@ -34,10 +30,13 @@ nav_order: 5
 | 2024 | Gold Merit Award |
 | 2024 | Mohawk College Mathematics Award — Senior |
 | 2024 | Sanofi Biogenius Canada Award |
+| 2024 | **BASEF International Science and Engineering Fair Trip Award** |
+| 2024 | Canada-Wide Science Fair Trip Award |
 | 2023 | Hamilton Chamber of Commerce Innovation Award — **First Place** |
 | 2023 | ArcelorMittal Dofasco Environment Award |
 | 2023 | Association for Iron and Steel Technology Northern Chapter Award |
 | 2023 | Silver Merit Award |
+| 2023 | Canada-Wide Science Fair Trip Award |
 | 2022 | ArcelorMittal Dofasco Hot Mill Award |
 | 2022 | Canadian Nuclear Society Award — Intermediate (Golden Horseshoe Branch) |
 | 2022 | Hillfield Strathallan College Award of Excellence — Scientific Process |
@@ -46,6 +45,7 @@ nav_order: 5
 | 2022 | Earth and Environmental Sciences Award |
 | 2022 | Royal Botanical Gardens Award |
 | 2022 | Silver Merit Award |
+| 2022 | Canada-Wide Science Fair Trip Award |
 | 2021 | Hamilton Academy of Dentistry Award — Second Place |
 | 2021 | John W. Howard Materials Research Award |
 | 2021 | Silver Merit Award |
