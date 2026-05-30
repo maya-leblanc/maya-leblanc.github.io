@@ -26,7 +26,7 @@ In parallel, I serve as Founder and Head of **Aletheia**, an independent publish
 
 At the international level, I represented Canada at the **Regeneron International Science and Engineering Fair (ISEF) 2024**, placing **4th in Health Sciences**. I am a Schulich Leader Nominee and have accumulated over 30 awards across five years of competition at the Bay Area Science and Engineering Fair (BASEF).
 
----
+
 
 ## education
 
@@ -42,7 +42,7 @@ At the international level, I represented Canada at the **Regeneron Internationa
   </div>
 </div>
 
----
+
 
 ## selected projects
 
