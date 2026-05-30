@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Certifications
+title: certifications
 permalink: /certifications/
 description: Professional certifications, licences, and completed training programs.
 nav: true
