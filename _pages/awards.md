@@ -13,7 +13,7 @@ nav_order: 5
 
 | Year | Award | Organization |
 |:----:|-------|-------------|
-| 2024 | 🥇 **ISEF Fourth Place Grand Award — Biomedical and Health Sciences** | Intel ISEF |
+| 2024 | 🥇 **ISEF Fourth Place Grand Award — Biomedical and Health Sciences** | Regeneron ISEF |
 | 2024 | 🥈 **CWSF Silver Merit Award** | Canada-Wide Science Fair |
 | 2024 | **CWSF International Science and Engineering Fair Trip Award** | Canada-Wide Science Fair |
 | 2024 | CWSF Canada-Wide Science Fair Trip Award | Canada-Wide Science Fair |
