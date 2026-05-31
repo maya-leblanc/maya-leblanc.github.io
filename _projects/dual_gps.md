@@ -2,7 +2,7 @@
 layout: page
 title: Dual GPS Antenna Mounts
 description: Primary and secondary GPS antenna mounts with 1-metre baseline separation for spatial diversity and improved signal reliability. URC Mars Rover, SolidWorks, PLA FDM.
-img: assets/img/projects/dual_gps.jpg
+img: assets/img/projects/dual.png
 importance: 2
 category: robotics
 related_publications: false
