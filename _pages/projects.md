@@ -12,8 +12,8 @@ nav_order: 3
 {% for project in robotics %}
 <div style="display:flex; gap:1.5rem; margin:2rem 0; align-items:flex-start; border-bottom: 1px solid #eee; padding-bottom:2rem;">
   {% if project.img %}
-  <div style="min-width:150px; max-width:150px;">
-    <img src="{{ project.img | relative_url }}" style="width:100%; border-radius:8px;" alt="{{ project.title }}">
+  <div style="min-width:150px; max-width:150px; flex-shrink:0;">
+    <img src="{{ project.img | relative_url }}" style="width:100%; border-radius:8px; object-fit:cover; aspect-ratio:4/3;" alt="{{ project.title }}">
   </div>
   {% endif %}
   <div>
@@ -23,22 +23,7 @@ nav_order: 3
 </div>
 {% endfor %}
 
-## engineering
-
-{% assign engineering = site.projects | where: "category", "engineering" | sort: "importance" %}
-{% for project in engineering %}
-<div style="display:flex; gap:1.5rem; margin:2rem 0; align-items:flex-start; border-bottom: 1px solid #eee; padding-bottom:2rem;">
-  {% if project.img %}
-  <div style="min-width:150px; max-width:150px;">
-    <img src="{{ project.img | relative_url }}" style="width:100%; border-radius:8px;" alt="{{ project.title }}">
-  </div>
-  {% endif %}
-  <div>
-    <strong><a href="{{ project.url | relative_url }}">{{ project.title }}</a></strong><br>
-    <span style="color:gray; font-size:0.9rem;">{{ project.description }}</span>
-  </div>
-</div>
-{% endfor %}
+---
 
 ## research
 
@@ -46,8 +31,27 @@ nav_order: 3
 {% for project in research %}
 <div style="display:flex; gap:1.5rem; margin:2rem 0; align-items:flex-start; border-bottom: 1px solid #eee; padding-bottom:2rem;">
   {% if project.img %}
-  <div style="min-width:150px; max-width:150px;">
-    <img src="{{ project.img | relative_url }}" style="width:100%; border-radius:8px;" alt="{{ project.title }}">
+  <div style="min-width:150px; max-width:150px; flex-shrink:0;">
+    <img src="{{ project.img | relative_url }}" style="width:100%; border-radius:8px; object-fit:cover; aspect-ratio:4/3;" alt="{{ project.title }}">
+  </div>
+  {% endif %}
+  <div>
+    <strong><a href="{{ project.url | relative_url }}">{{ project.title }}</a></strong><br>
+    <span style="color:gray; font-size:0.9rem;">{{ project.description }}</span>
+  </div>
+</div>
+{% endfor %}
+
+---
+
+## engineering
+
+{% assign engineering = site.projects | where: "category", "engineering" | sort: "importance" %}
+{% for project in engineering %}
+<div style="display:flex; gap:1.5rem; margin:2rem 0; align-items:flex-start; border-bottom: 1px solid #eee; padding-bottom:2rem;">
+  {% if project.img %}
+  <div style="min-width:150px; max-width:150px; flex-shrink:0;">
+    <img src="{{ project.img | relative_url }}" style="width:100%; border-radius:8px; object-fit:cover; aspect-ratio:4/3;" alt="{{ project.title }}">
   </div>
   {% endif %}
   <div>
