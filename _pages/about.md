@@ -20,7 +20,7 @@ latest_posts:
 
 I am a first-year Engineering student at McMaster University with a focus on robotics systems engineering. My technical interests span mechanical design, grasp planning, and robot operating frameworks — with a technical interest in applications where engineering complexity serves a clear purposeful mission.
 
-Currently, I am working with Dr. Gary Bone (McMaster Mechanical Engineering) on grasp planning manipulation research. I am also an active member of McMaster's Mars Rover Team, where I independently designed and built mechanical systems for a Mars-analog rover competing in the University Rover Challenge (URC).
+Currently, I am working with Dr. Gary Bone (McMaster Mechanical Engineering) on grasp planning manipulation research. I am also an active member of McMaster's Mars Rover Team, where I independently designed and built mechanical systems for a Mars-analog rover planning to compete in the University Rover Challenge (URC).
 
 In parallel, I am collaborating with Dr. Konstantinos Tselios, physician and scientist at McMaster's Health Sciences Lupus Clinic, on the development of a novel diagnostic tool for Systemic Lupus Erythematosus, an extension of work conducted through Aletheia, an independent research initiative I founded to pursue original scientific work outside of coursework.
 
@@ -144,8 +144,8 @@ At the international level, I represented Canada at the Regeneron International 
   </div>
   <div class="col-sm-10">
     <strong>McMaster University</strong><br>
-    <span class="text-muted">B.Eng. in Engineering | 2025–2029 (expected)</span><br>
-    <strong>Engineering — Robotics Concentration (intended)</strong><br>
-    Activities: McMaster Mars Rover Team (Comms System Mechanical), Robotics Manipulation and Autonomy Lab (RMAL)
+    <span class="text-muted">B.Eng. | 2025–2029 (expected)</span><br>
+    <strong>Engineering Physics — Minors in Mechanical and Computer Engineering (intended)</strong><br>
+    Clubs: Christian Orthodox Campus-Ministry Association (COCA), McMaster Mars Rover Team (MMRT), McMaster Catholic Chaplaincy (MCC)
   </div>
 </div>
