@@ -2,7 +2,7 @@
 layout: page
 title: Project AURA
 description: Independent research at the intersection of computer engineering, neuroscience, and biomedical engineering. May 2025 – June 2025.
-img: assets/img/projects/project_aura.jpg
+img: assets/img/projects/Picture1.jpg
 importance: 3
 category: research
 related_publications: false
