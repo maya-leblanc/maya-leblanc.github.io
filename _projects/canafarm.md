@@ -2,7 +2,7 @@
 layout: page
 title: CanaFarm Robotics
 description: Robotics and environmental engineering project for automated farming systems. BASEF 2020.
-img: assets/img/projects/canafarm.jpg
+img: assets/img/projects/canafarm.png
 importance: 6
 category: research
 related_publications: false
