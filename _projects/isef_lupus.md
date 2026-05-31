@@ -2,7 +2,7 @@
 layout: page
 title: Genetic Analysis of CD16+/- Monocytes and CD4+ T Cells for SLE Diagnostic Tool
 description: Computational immunogenomics research identifying novel gene signatures for SLE diagnosis. ISEF 2024 — 4th Place Grand Award, Health Sciences.
-img: assets/img/projects/isef_lupus.jpg
+img: assets/img/projects/isef.png
 importance: 1
 category: research
 related_publications: true
