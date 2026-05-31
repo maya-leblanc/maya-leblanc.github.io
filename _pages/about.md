@@ -140,7 +140,7 @@ At the international level, I represented Canada at the Regeneron International 
 
 <div class="row mt-4 mb-4">
   <div class="col-sm-2">
-    <img src="assets/img/skills/mcmaster.png" class="img-fluid rounded z-depth-1" alt="McMaster University">
+    <img src="assets/img/skills/mcmaster.jpg" class="img-fluid rounded z-depth-1" alt="McMaster University">
   </div>
   <div class="col-sm-10">
     <strong>McMaster University</strong><br>
