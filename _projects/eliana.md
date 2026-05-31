@@ -2,7 +2,7 @@
 layout: page
 title: New Robot Project
 description: Incoming robotics project — robotics engineering, embedded systems, simulation. April 2026 – August 2026.
-img: assets/img/projects/new_robot.jpg
+#img: assets/img/projects/
 importance: 6
 category: robotics
 related_publications: false
