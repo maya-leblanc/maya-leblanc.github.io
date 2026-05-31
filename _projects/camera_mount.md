@@ -2,7 +2,7 @@
 layout: page
 title: 2-DOF Pan-Tilt Camera System
 description: Servo-actuated pan-tilt camera mount for URC Mars Rover. Custom 1:2 spur gear train, 608 ball bearing, SolidWorks, PLA FDM. 360° pan, 180° tilt.
-img: assets/img/projects/camera_mount.jpg
+img: assets/img/projects/2dofcam.png
 importance: 1
 category: robotics
 related_publications: false
