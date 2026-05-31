@@ -2,7 +2,7 @@
 layout: page
 title: Experimental Evaluation of Household Fabrics for Aerosol Filtration and Improved COVID-19 Mask Design
 description: Material science research evaluating household fabric filtration for COVID-19 mask development. BASEF 2021.
-img: assets/img/projects/covid_mask.jpg
+img: assets/img/projects/grade8.png
 importance: 5
 category: research
 related_publications: false
