@@ -2,7 +2,7 @@
 layout: page
 title: Nitrous Oxide Reduction in an Industrial Wet Scrubber Utilizing NosZ Reductase
 description: Biological N₂O reduction in industrial wet scrubbers using NosZ reductase and P. denitrificans. BASEF 2023, CWSF 2023, Ingenious+ 2025.
-img: assets/img/projects/nitrous_oxide.jpg
+img: assets/img/projects/nitrous.png
 importance: 2
 category: research
 related_publications: false
