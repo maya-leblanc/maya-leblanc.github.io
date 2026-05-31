@@ -2,7 +2,7 @@
 layout: page
 title: Algae Wastewater Filtration System
 description: Biochemical and materials engineering design of an algae-based wastewater filtration system. McMaster University Project 2. January 2026 – April 2026.
-img: assets/img/projects/algae_wastewater.jpg
+img: assets/img/projects/algae.png
 importance: 2
 category: engineering
 related_publications: false
