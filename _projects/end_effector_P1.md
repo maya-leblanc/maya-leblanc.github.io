@@ -2,7 +2,7 @@
 layout: page
 title: Robotic End Effector System
 description: Robotic end effector design and integration for Q-arm platform. McMaster University Project 1. Manufacturing, robotics, Q-arm.
-img: assets/img/projects/end_effector.jpg
+img: assets/img/projects/robotic.png
 importance: 4
 category: robotics
 related_publications: false
