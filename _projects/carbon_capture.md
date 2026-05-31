@@ -2,7 +2,7 @@
 layout: page
 title: Carbon Capture Depletion Using Catalyzed Photosynthesis to Promote Crop Growth
 description: Environmental engineering research on catalyzed photosynthesis for carbon capture and crop growth. BASEF 2022, CWSF 2022.
-img: assets/img/projects/carbon_capture.jpg
+img: assets/img/projects/carbon.png
 importance: 4
 category: research
 related_publications: true
