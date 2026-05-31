@@ -26,69 +26,62 @@ In parallel, I am collaborating with Dr. Konstantinos Tselios, physician and sci
 
 At the international level, I represented Canada at the Regeneron International Science and Engineering Fair (ISEF) 2024, placing 4th in Health Sciences. I am a Schulich Leader Nominee and have accumulated over 30 awards across five years of competition at the Bay Area Science and Engineering Fair (BASEF).
 
+---
+
 ## skills
 
 **Design & CAD**
 
 <div style="display:flex; flex-wrap:wrap; gap:1rem; align-items:center; margin: 1rem 0 2rem 0;">
-  <img src="assets/img/skills/3dsmax.png" height="50" alt="Autodesk 3ds Max">
-  <img src="assets/img/skills/inventor.png" height="50" alt="Autodesk Inventor">
-  <img src="assets/img/skills/autocad.png" height="50" alt="AutoCAD">
-  <img src="assets/img/skills/onshape.png" height="50" alt="Onshape">
-  <img src="assets/img/skills/revit.png" height="50" alt="Revit">
-  <img src="assets/img/skills/solidworks.png" height="50" alt="SolidWorks">
+  <img src="assets/img/skills/autocad.svg" height="50" title="AutoCAD" alt="AutoCAD">
+  <img src="assets/img/skills/solidworks.svg" height="50" title="SolidWorks" alt="SolidWorks">
 </div>
 
 **Programming & Software**
 
 <div style="display:flex; flex-wrap:wrap; gap:0.75rem; align-items:center; margin: 1rem 0 2rem 0;">
-  <img src="assets/img/skills/python.png" height="45" alt="Python">
-  <img src="assets/img/skills/cpp.png" height="45" alt="C++">
-  <img src="assets/img/skills/bash.png" height="45" alt="Bash">
-  <img src="assets/img/skills/matlab.png" height="45" alt="MATLAB">
-  <img src="assets/img/skills/ros2.png" height="45" alt="ROS2">
-  <img src="assets/img/skills/gazebo.png" height="45" alt="Gazebo">
-  <img src="assets/img/skills/rviz.png" height="45" alt="RViz">
-  <img src="assets/img/skills/turtlebot3.png" height="45" alt="TurtleBot3">
-  <img src="assets/img/skills/vscode.png" height="45" alt="VS Code">
-  <img src="assets/img/skills/ubuntu.png" height="45" alt="Ubuntu">
-  <img src="assets/img/skills/numpy.png" height="45" alt="numpy">
-  <img src="assets/img/skills/matplotlib.png" height="45" alt="matplotlib">
+  <img src="assets/img/skills/python.svg" height="45" title="Python" alt="Python">
+  <img src="assets/img/skills/c.svg" height="45" title="C" alt="C">
+  <img src="assets/img/skills/bash.svg" height="45" title="Bash" alt="Bash">
+  <img src="assets/img/skills/matlab.svg" height="45" title="MATLAB" alt="MATLAB">
+  <img src="assets/img/skills/gazebo.svg" height="45" title="Gazebo" alt="Gazebo">
+  <img src="assets/img/skills/ubuntu.svg" height="45" title="Ubuntu" alt="Ubuntu">
+  <img src="assets/img/skills/numpy.svg" height="45" title="NumPy" alt="NumPy">
+  <img src="assets/img/skills/matplotlib.svg" height="45" title="Matplotlib" alt="Matplotlib">
 </div>
 
 <div style="display:flex; flex-wrap:wrap; gap:0.5rem; align-items:center; margin: 0.5rem 0 2rem 0;">
   <span style="background:#1a1a1a; color:#fff; border-radius:999px; padding:0.35rem 1rem; font-size:0.85rem;">URDF</span>
   <span style="background:#1a1a1a; color:#fff; border-radius:999px; padding:0.35rem 1rem; font-size:0.85rem;">FEA</span>
   <span style="background:#1a1a1a; color:#fff; border-radius:999px; padding:0.35rem 1rem; font-size:0.85rem;">PCL</span>
+  <span style="background:#1a1a1a; color:#fff; border-radius:999px; padding:0.35rem 1rem; font-size:0.85rem;">ROS2</span>
 </div>
 
 **Documentation & Productivity**
 
 <div style="display:flex; flex-wrap:wrap; gap:0.75rem; align-items:center; margin: 1rem 0 2rem 0;">
-  <img src="assets/img/skills/latex.png" height="45" alt="LaTeX">
-  <img src="assets/img/skills/office.png" height="45" alt="Microsoft Office">
-  <img src="assets/img/skills/canva.png" height="45" alt="Canva">
-  <img src="assets/img/skills/photoshop.png" height="45" alt="Photoshop">
-  <img src="assets/img/skills/illustrator.png" height="45" alt="Illustrator">
-  <img src="assets/img/skills/powerdirector.png" height="45" alt="PowerDirector">
-  <img src="assets/img/skills/cyberlink.png" height="45" alt="Cyberlink">
-  <img src="assets/img/skills/pdm.png" height="45" alt="PDM">
+  <img src="assets/img/skills/latex.svg" height="45" title="LaTeX" alt="LaTeX">
+  <img src="assets/img/skills/canva.svg" height="45" title="Canva" alt="Canva">
+  <img src="assets/img/skills/photoshop.svg" height="45" title="Photoshop" alt="Photoshop">
+  <img src="assets/img/skills/illustrator.svg" height="45" title="Illustrator" alt="Illustrator">
+  <img src="assets/img/skills/powerdirector.svg" height="45" title="PowerDirector" alt="PowerDirector">
+  <img src="assets/img/skills/cyberlink.svg" height="45" title="Cyberlink" alt="Cyberlink">
 </div>
 
-**Technical**
+**Hardware & Technical**
 
 <div style="display:flex; flex-wrap:wrap; gap:0.75rem; align-items:center; margin: 1rem 0 2rem 0;">
-  <img src="assets/img/skills/raspberry_pi.png" height="45" alt="Raspberry Pi">
-  <img src="assets/img/skills/esp32.png" height="45" alt="ESP32">
-  <img src="assets/img/skills/arduino.png" height="45" alt="Arduino">
-  <img src="assets/img/skills/3dprinter.png" height="45" alt="3D Printing">
+  <img src="assets/img/skills/arduino.svg" height="45" title="Arduino" alt="Arduino">
+  <img src="assets/img/skills/raspberrypi.svg" height="45" title="Raspberry Pi" alt="Raspberry Pi">
 </div>
+
+---
 
 ## selected projects
 
 <div class="row mt-4 mb-4">
   <div class="col-sm-3">
-    <img src="assets/img/projects/camera_mount.jpg" class="img-fluid rounded z-depth-1" alt="2-DOF Pan-Tilt Camera System">
+    <img src="assets/img/projects/camera_mount.png" class="img-fluid rounded z-depth-1" alt="2-DOF Pan-Tilt Camera System">
   </div>
   <div class="col-sm-9">
     <strong><a href="/projects/camera_mount">2-DOF Pan-Tilt Camera System</a></strong><br>
@@ -99,7 +92,7 @@ At the international level, I represented Canada at the Regeneron International 
 
 <div class="row mt-4 mb-4">
   <div class="col-sm-3">
-    <img src="assets/img/projects/dual_gps.jpg" class="img-fluid rounded z-depth-1" alt="Dual GPS Antenna Mounts">
+    <img src="assets/img/projects/dual.png" class="img-fluid rounded z-depth-1" alt="Dual GPS Antenna Mounts">
   </div>
   <div class="col-sm-9">
     <strong><a href="/projects/dual_gps">Dual GPS Antenna Mounts</a></strong><br>
@@ -110,7 +103,7 @@ At the international level, I represented Canada at the Regeneron International 
 
 <div class="row mt-4 mb-4">
   <div class="col-sm-3">
-    <img src="assets/img/projects/grasp_detection.jpg" class="img-fluid rounded z-depth-1" alt="Grasp Detection">
+    <img src="assets/img/projects/grasp_plan.png" class="img-fluid rounded z-depth-1" alt="Grasp Detection">
   </div>
   <div class="col-sm-9">
     <strong><a href="/projects/grasp_detection">Power Grasp Detection on 3D Objects via Multi-Height Mesh Analysis</a></strong><br>
@@ -121,7 +114,7 @@ At the international level, I represented Canada at the Regeneron International 
 
 <div class="row mt-4 mb-4">
   <div class="col-sm-3">
-    <img src="assets/img/projects/isef_lupus.jpg" class="img-fluid rounded z-depth-1" alt="SLE Diagnostic Tool">
+    <img src="assets/img/projects/isef.png" class="img-fluid rounded z-depth-1" alt="SLE Diagnostic Tool">
   </div>
   <div class="col-sm-9">
     <strong><a href="/projects/isef_lupus">Genetic Analysis of CD16+/- Monocytes & CD4+ T Cells for SLE Diagnostic Tool</a></strong><br>
@@ -132,7 +125,7 @@ At the international level, I represented Canada at the Regeneron International 
 
 <div class="row mt-4 mb-4">
   <div class="col-sm-3">
-    <img src="assets/img/projects/nitrous_oxide.jpg" class="img-fluid rounded z-depth-1" alt="Nitrous Oxide Reduction">
+    <img src="assets/img/projects/nitrous.png" class="img-fluid rounded z-depth-1" alt="Nitrous Oxide Reduction">
   </div>
   <div class="col-sm-9">
     <strong><a href="/projects/nitrous_oxide">Nitrous Oxide Reduction in an Industrial Wet Scrubber Utilizing NosZ Reductase</a></strong><br>
@@ -141,11 +134,13 @@ At the international level, I represented Canada at the Regeneron International 
   </div>
 </div>
 
+---
+
 ## education
 
 <div class="row mt-4 mb-4">
   <div class="col-sm-2">
-    <img src="assets/img/mcmaster_logo.png" class="img-fluid rounded z-depth-1" alt="McMaster University">
+    <img src="assets/img/skills/mcmaster.png" class="img-fluid rounded z-depth-1" alt="McMaster University">
   </div>
   <div class="col-sm-10">
     <strong>McMaster University</strong><br>
