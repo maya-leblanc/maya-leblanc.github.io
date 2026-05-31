@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
-
+  - maya-leblanc
+  
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - maya-leblanc/maya-leblanc.github.io
+  - maya-leblanc/project-aura
+  - maya-leblanc/PCL-ROS2-processing
+  - maya-leblanc/grasp-planning-system
