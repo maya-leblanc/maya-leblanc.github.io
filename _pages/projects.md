@@ -1,8 +1,73 @@
+================================================
+FILE: _pages/projects.md
+================================================
+---
+layout: page
+title: projects
+permalink: /projects/
+nav: true
+nav_order: 3
+---
+
+## robotics
+
+{% assign robotics = site.projects | where: "category", "robotics" | sort: "importance" %}
+{% for project in robotics %}
+<div style="display:flex; gap:1.5rem; margin:2rem 0; align-items:flex-start; border-bottom: 1px solid #eee; padding-bottom:2rem;">
+  {% if project.img %}
+  <div style="min-width:150px; max-width:150px; flex-shrink:0;">
+    <img src="{{ project.img | relative_url }}" style="width:100%; border-radius:8px; object-fit:cover; aspect-ratio:4/3;" alt="{{ project.title }}">
+  </div>
+  {% endif %}
+  <div>
+    <strong><a href="{{ project.url | relative_url }}">{{ project.title }}</a></strong><br>
+    <span style="color:gray; font-size:0.9rem;">{{ project.description }}</span>
+  </div>
+</div>
+{% endfor %}
+
+---
+
+## research
+
+{% assign research = site.projects | where: "category", "research" | sort: "importance" %}
+{% for project in research %}
+<div style="display:flex; gap:1.5rem; margin:2rem 0; align-items:flex-start; border-bottom: 1px solid #eee; padding-bottom:2rem;">
+  {% if project.img %}
+  <div style="min-width:150px; max-width:150px; flex-shrink:0;">
+    <img src="{{ project.img | relative_url }}" style="width:100%; border-radius:8px; object-fit:cover; aspect-ratio:4/3;" alt="{{ project.title }}">
+  </div>
+  {% endif %}
+  <div>
+    <strong><a href="{{ project.url | relative_url }}">{{ project.title }}</a></strong><br>
+    <span style="color:gray; font-size:0.9rem;">{{ project.description }}</span>
+  </div>
+</div>
+{% endfor %}
+
+---
+
+## engineering
+
+{% assign engineering = site.projects | where: "category", "engineering" | sort: "importance" %}
+{% for project in engineering %}
+<div style="display:flex; gap:1.5rem; margin:2rem 0; align-items:flex-start; border-bottom: 1px solid #eee; padding-bottom:2rem;">
+  {% if project.img %}
+  <div style="min-width:150px; max-width:150px; flex-shrink:0;">
+    <img src="{{ project.img | relative_url }}" style="width:100%; border-radius:8px; object-fit:cover; aspect-ratio:4/3;" alt="{{ project.title }}">
+  </div>
+  {% endif %}
+  <div>
+    <strong><a href="{{ project.url | relative_url }}">{{ project.title }}</a></strong><br>
+    <span style="color:gray; font-size:0.9rem;">{{ project.description }}</span>
+  </div>
+</div>
+{% endfor %}
+
 
 ================================================
 FILE: _projects/algae_wastewater.md
 ================================================
-
 ---
 layout: page
 title: Algae Wastewater Filtration System
@@ -23,7 +88,6 @@ Add methodology, details, and results here.
 ================================================
 FILE: _projects/balsa_bridge.md
 ================================================
-
 ---
 layout: page
 title: Balsa Bridge Project
@@ -44,7 +108,6 @@ Add methodology, details, and results here.
 ================================================
 FILE: _projects/camera_mount.md
 ================================================
-
 ---
 layout: page
 title: 2-DOF Pan-Tilt Camera System
@@ -65,7 +128,6 @@ Add methodology, details, and results here.
 ================================================
 FILE: _projects/canafarm.md
 ================================================
-
 ---
 layout: page
 title: CanaFarm Robotics
@@ -86,7 +148,6 @@ Add methodology, details, and results here.
 ================================================
 FILE: _projects/carbon_capture.md
 ================================================
-
 ---
 layout: page
 title: Carbon Capture Depletion Using Catalyzed Photosynthesis to Promote Crop Growth
@@ -107,7 +168,6 @@ Add methodology, details, and results here.
 ================================================
 FILE: _projects/covid_mask.md
 ================================================
-
 ---
 layout: page
 title: Experimental Evaluation of Household Fabrics for Aerosol Filtration and Improved COVID-19 Mask Design
@@ -128,7 +188,6 @@ Add methodology, details, and results here.
 ================================================
 FILE: _projects/dual_gps.md
 ================================================
-
 ---
 layout: page
 title: Dual GPS Antenna Mounts
@@ -149,7 +208,6 @@ Add methodology, details, and results here.
 ================================================
 FILE: _projects/end_effector.md
 ================================================
-
 ---
 layout: page
 title: Robotic End Effector System
@@ -170,7 +228,6 @@ Add methodology, details, and results here.
 ================================================
 FILE: _projects/grasp_detection.md
 ================================================
-
 ---
 layout: page
 title: Power Grasp Detection on 3D Objects via Multi-Height Mesh Analysis
@@ -191,7 +248,6 @@ Add methodology, details, and results here.
 ================================================
 FILE: _projects/gripeasy.md
 ================================================
-
 ---
 layout: page
 title: Grizzly Paws — GripEase
@@ -212,7 +268,6 @@ Add methodology, details, and results here.
 ================================================
 FILE: _projects/isef_lupus.md
 ================================================
-
 ---
 layout: page
 title: Genetic Analysis of CD16+/- Monocytes and CD4+ T Cells for SLE Diagnostic Tool
@@ -229,11 +284,15 @@ Add project description here.
 ## Methods
 Add methodology, details, and results here.
 
+## Awards
+- ISEF 2024 — Fourth Place Grand Award, Biomedical and Health Sciences
+- CWSF 2024 — Silver Merit Award
+- BASEF 2024 — Best in Fair, Pinnacle Award
+
 
 ================================================
 FILE: _projects/new_robot.md
 ================================================
-
 ---
 layout: page
 title: New Robot Project
@@ -245,16 +304,12 @@ related_publications: false
 ---
 
 ## Overview
-Add project description here.
-
-## Methods
-Add methodology, details, and results here.
+Project in progress. Details to be added.
 
 
 ================================================
 FILE: _projects/nitrous_oxide.md
 ================================================
-
 ---
 layout: page
 title: Nitrous Oxide Reduction in an Industrial Wet Scrubber Utilizing NosZ Reductase and P. denitrificans
@@ -275,7 +330,6 @@ Add methodology, details, and results here.
 ================================================
 FILE: _projects/point_cloud.md
 ================================================
-
 ---
 layout: page
 title: 3D Point Cloud Processing with ROS2 and PCL
@@ -296,7 +350,6 @@ Add methodology, details, and results here.
 ================================================
 FILE: _projects/project_aura.md
 ================================================
-
 ---
 layout: page
 title: Project AURA
