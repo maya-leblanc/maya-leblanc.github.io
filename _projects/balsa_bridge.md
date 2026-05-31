@@ -2,7 +2,7 @@
 layout: page
 title: Balsa Bridge Project
 description: Structural engineering design and competition build. 3rd Place Force, 5th Overall — PEO Bridge Building Competition 2024.
-img: assets/img/projects/balsa_bridge.jpg
+img: assets/img/projects/balsa.png
 importance: 3
 category: engineering
 related_publications: false
