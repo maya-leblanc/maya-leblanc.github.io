@@ -2,7 +2,7 @@
 layout: page
 title: 3D Point Cloud Processing with ROS2 and PCL
 description: Experimental robotics perception project using ROS2 and PCL library for 3D point cloud processing. C++, Linux.
-img: assets/img/projects/point_cloud.jpg
+img: assets/img/projects/cloud.png
 importance: 5
 category: robotics
 related_publications: false
