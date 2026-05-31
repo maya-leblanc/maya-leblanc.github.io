@@ -33,8 +33,11 @@ At the international level, I represented Canada at the Regeneron International 
 **Design & CAD**
 
 <div style="display:flex; flex-wrap:wrap; gap:1rem; align-items:center; margin: 1rem 0 2rem 0;">
-  <img src="assets/img/skills/autocad.svg" height="50" title="AutoCAD" alt="AutoCAD">
   <img src="assets/img/skills/solidworks.svg" height="50" title="SolidWorks" alt="SolidWorks">
+  <img src="assets/img/skills/autocad.svg" height="50" title="AutoCAD" alt="AutoCAD">
+  <img src="assets/img/skills/inventor.png" height="50" title="Autodesk Inventor" alt="Autodesk Inventor">
+  <img src="assets/img/skills/revit.png" height="50" title="Revit" alt="Revit">
+  <img src="assets/img/skills/ansys.jpg" height="50" title="ANSYS" alt="ANSYS">
 </div>
 
 **Programming & Software**
@@ -44,10 +47,12 @@ At the international level, I represented Canada at the Regeneron International 
   <img src="assets/img/skills/c.svg" height="45" title="C" alt="C">
   <img src="assets/img/skills/bash.svg" height="45" title="Bash" alt="Bash">
   <img src="assets/img/skills/matlab.svg" height="45" title="MATLAB" alt="MATLAB">
+  <img src="assets/img/skills/ros2.png" height="45" title="ROS2" alt="ROS2">
   <img src="assets/img/skills/gazebo.svg" height="45" title="Gazebo" alt="Gazebo">
   <img src="assets/img/skills/ubuntu.svg" height="45" title="Ubuntu" alt="Ubuntu">
   <img src="assets/img/skills/numpy.svg" height="45" title="NumPy" alt="NumPy">
   <img src="assets/img/skills/matplotlib.svg" height="45" title="Matplotlib" alt="Matplotlib">
+  <img src="assets/img/skills/minitab.png" height="45" title="Minitab" alt="Minitab">
 </div>
 
 <div style="display:flex; flex-wrap:wrap; gap:0.5rem; align-items:center; margin: 0.5rem 0 2rem 0;">
@@ -61,6 +66,7 @@ At the international level, I represented Canada at the Regeneron International 
 
 <div style="display:flex; flex-wrap:wrap; gap:0.75rem; align-items:center; margin: 1rem 0 2rem 0;">
   <img src="assets/img/skills/latex.svg" height="45" title="LaTeX" alt="LaTeX">
+  <img src="assets/img/skills/microsoft365.svg" height="45" title="Microsoft 365" alt="Microsoft 365">
   <img src="assets/img/skills/canva.svg" height="45" title="Canva" alt="Canva">
   <img src="assets/img/skills/photoshop.svg" height="45" title="Photoshop" alt="Photoshop">
   <img src="assets/img/skills/illustrator.svg" height="45" title="Illustrator" alt="Illustrator">
