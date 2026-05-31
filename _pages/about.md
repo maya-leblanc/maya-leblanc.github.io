@@ -55,12 +55,6 @@ At the international level, I represented Canada at the Regeneron International 
   <img src="assets/img/skills/minitab.png" height="45" title="Minitab" alt="Minitab">
 </div>
 
-<div style="display:flex; flex-wrap:wrap; gap:0.5rem; align-items:center; margin: 0.5rem 0 2rem 0;">
-  <span style="background:#1a1a1a; color:#fff; border-radius:999px; padding:0.35rem 1rem; font-size:0.85rem;">URDF</span>
-  <span style="background:#1a1a1a; color:#fff; border-radius:999px; padding:0.35rem 1rem; font-size:0.85rem;">FEA</span>
-  <span style="background:#1a1a1a; color:#fff; border-radius:999px; padding:0.35rem 1rem; font-size:0.85rem;">PCL</span>
-  <span style="background:#1a1a1a; color:#fff; border-radius:999px; padding:0.35rem 1rem; font-size:0.85rem;">ROS2</span>
-</div>
 
 **Documentation & Productivity**
 
@@ -87,7 +81,7 @@ At the international level, I represented Canada at the Regeneron International 
 
 <div class="row mt-4 mb-4">
   <div class="col-sm-3">
-    <img src="assets/img/projects/camera_mount.png" class="img-fluid rounded z-depth-1" alt="2-DOF Pan-Tilt Camera System">
+    <img src="assets/img/projects/2dofcam.png" class="img-fluid rounded z-depth-1" alt="2-DOF Pan-Tilt Camera System">
   </div>
   <div class="col-sm-9">
     <strong><a href="/projects/camera_mount">2-DOF Pan-Tilt Camera System</a></strong><br>
