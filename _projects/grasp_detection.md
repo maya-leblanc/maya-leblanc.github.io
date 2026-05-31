@@ -2,7 +2,7 @@
 layout: page
 title: Power Grasp Detection on 3D Objects via Multi-Height Mesh Analysis
 description: Grasp planning algorithm for 3D objects using multi-height mesh analysis. Referred by Dr. Gary Bone, PhD. MATLAB, computational geometry, algorithm design.
-img: assets/img/projects/grasp_detection.jpg
+img: assets/img/projects/grasp_plan.png
 importance: 3
 category: robotics
 related_publications: false
