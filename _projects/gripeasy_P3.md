@@ -2,7 +2,7 @@
 layout: page
 title: Grizzly Paws — GripEase
 description: Rehabilitation-focused assistive device. Materials and rehabilitation engineering. McMaster University Project 3. January 2026 – April 2026.
-img: assets/img/projects/gripeasy.jpg
+img: assets/img/projects/grizzly.png
 importance: 1
 category: engineering
 related_publications: false
