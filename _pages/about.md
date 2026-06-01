@@ -6,7 +6,7 @@ subtitle: First-Year Engineering | <a href="https://www.mcmaster.ca">McMaster Un
 
 profile:
   align: right
-  image: prof_pic.png
+  image: maya.png
   image_circular: false
 
 selected_papers: false
