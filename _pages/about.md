@@ -37,6 +37,7 @@ At the international level, I represented Canada at the Regeneron International 
   <img src="assets/img/skills/autocad.svg" height="50" title="AutoCAD" alt="AutoCAD">
   <img src="assets/img/skills/inventor.png" height="50" title="Autodesk Inventor" alt="Autodesk Inventor">
   <img src="assets/img/skills/revit.png" height="50" title="Revit" alt="Revit">
+  <img src="assets/img/skills/3ds max.png" height="50" title="3dsMax" alt="3dsMax">
   <img src="assets/img/skills/ansys.jpg" height="50" title="ANSYS" alt="ANSYS">
 </div>
 
@@ -50,8 +51,7 @@ At the international level, I represented Canada at the Regeneron International 
   <img src="assets/img/skills/ros2.png" height="45" title="ROS2" alt="ROS2">
   <img src="assets/img/skills/gazebo.svg" height="45" title="Gazebo" alt="Gazebo">
   <img src="assets/img/skills/ubuntu.svg" height="45" title="Ubuntu" alt="Ubuntu">
-  <img src="assets/img/skills/numpy.svg" height="45" title="NumPy" alt="NumPy">
-  <img src="assets/img/skills/matplotlib.svg" height="45" title="Matplotlib" alt="Matplotlib">
+  <img src="assets/img/skills/pcl.png" height="45" title="pcl" alt="pcl">
   <img src="assets/img/skills/minitab.png" height="45" title="Minitab" alt="Minitab">
 </div>
 
