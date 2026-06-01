@@ -18,13 +18,13 @@ latest_posts:
   enabled: false
 ---
 
-I am a first-year Engineering student at McMaster University with a focus on robotics systems engineering. My technical interests span mechanical design, grasp planning, and robot operating frameworks — with a technical interest in applications where engineering complexity serves a clear purposeful mission.
+I study Engineering Physics at McMaster University with a focus on robotics systems engineering. My technical interests span mechanical design, robot manipulation, and systems integration, with a particular interest in applications where engineering complexity serves a clear and purposeful mission.
 
-Currently, I am working with Dr. Gary Bone (McMaster Mechanical Engineering) on grasp planning manipulation research. I am also an active member of McMaster's Mars Rover Team, where I independently designed and built mechanical systems for a Mars-analog rover planning to compete in the University Rover Challenge (URC).
+Currently, I conduct research in robotic grasp planning and manipulation under Dr. Gary Bone in McMaster's Department of Mechanical Engineering. I am also a member of McMaster's Mars Rover Team, where I independently designed and built mechanical systems for a Mars-analog rover being developed for the University Rover Challenge (URC).
 
-In parallel, I am collaborating with Dr. Konstantinos Tselios, physician and scientist at McMaster's Health Sciences Lupus Clinic, on the development of a novel diagnostic tool for Systemic Lupus Erythematosus, an extension of work conducted through Aletheia, an independent research initiative I founded to pursue original scientific work outside of coursework.
+In parallel, I collaborate with Dr. Konstantinos Tselios, physician-scientist at McMaster's Lupus Clinic, on the development of a novel diagnostic approach for Systemic Lupus Erythematosus (SLE), building upon work conducted through Aletheia, an independent research initiative I founded to pursue original scientific research outside of coursework.
 
-At the international level, I represented Canada at the Regeneron International Science and Engineering Fair (ISEF) 2024, placing 4th in Health Sciences. I am a Schulich Leader Nominee and have accumulated over 30 awards across five years of competition at the Bay Area Science and Engineering Fair (BASEF).
+My work has been recognized at the Regeneron International Science and Engineering Fair (ISEF), where I represented Canada and placed 4th in Health Sciences. I am also a 2025 Schulich Leader Nominee and have received more than 30 awards through five years of competition at the Bay Area Science and Engineering Fair (BASEF).
 
 ---
 
