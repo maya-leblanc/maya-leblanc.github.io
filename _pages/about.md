@@ -123,17 +123,6 @@ My work has been recognized at the Regeneron International Science and Engineeri
   </div>
 </div>
 
-<div class="row mt-4 mb-4">
-  <div class="col-sm-3">
-    <img src="assets/img/projects/nitrous.png" class="img-fluid rounded z-depth-1" alt="Nitrous Oxide Reduction">
-  </div>
-  <div class="col-sm-9">
-    <strong><a href="/projects/nitrous_oxide">Nitrous Oxide Reduction in an Industrial Wet Scrubber Utilizing NosZ Reductase</a></strong><br>
-    <span class="text-muted">[Research Project] @ Aletheia / BASEF 2023, CWSF 2023, Ingenious+ 2025</span><br>
-    <strong>Complete.</strong> Chemical engineering research on biological nitrous oxide reduction using NosZ reductase and <i>P. denitrificans</i>. 3D simulation, gas treatment systems modelling.
-  </div>
-</div>
-
 ---
 
 ## education
