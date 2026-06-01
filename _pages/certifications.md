@@ -17,7 +17,9 @@ nav_order: 6
     <p class="text-muted mb-0">Robotisim &nbsp;·&nbsp; 2025</p>
   </div>
   <div class="col-sm-3 d-flex align-items-center justify-content-end">
-    <span class="text-muted fst-italic small">Image coming soon</span>
+    <img src="/assets/img/certifications/robotism.jpg" 
+         alt="Robotisim Certificate"
+         style="max-width:100%; height:auto; border-radius:6px;">
   </div>
 </div>
 <hr>
@@ -69,7 +71,10 @@ nav_order: 6
     <p class="text-muted small mb-0">Remotely Piloted Aircraft System — Basic Operations</p>
   </div>
   <div class="col-sm-3 d-flex align-items-center justify-content-end">
-    <span class="text-muted fst-italic small">Image coming soon</span>
+  <a href="/assets/img/certifications/rpas.pdf" target="_blank" rel="noopener noreferrer"
+     style="display:inline-block; padding:0.4rem 1rem; border:1px solid #aaa; border-radius:6px; font-size:0.85rem; text-decoration:none;">
+    View Certificate ↗
+  </a>
   </div>
 </div>
 
