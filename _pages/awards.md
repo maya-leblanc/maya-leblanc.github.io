@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awards & Honours
+title: awards & honours
 permalink: /awards/
 description: A selection of awards, honours, and recognitions received across research, engineering, leadership, and community contributions.
 nav: true
