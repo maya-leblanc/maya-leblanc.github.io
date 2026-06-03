@@ -45,12 +45,9 @@ My work has been recognized at the Regeneron International Science and Engineeri
 
 <div style="display:flex; flex-wrap:wrap; gap:0.75rem; align-items:center; margin: 1rem 0 2rem 0;">
   <img src="assets/img/skills/python.svg" height="45" title="Python" alt="Python">
-  <img src="assets/img/skills/c.svg" height="45" title="C" alt="C">
-  <img src="assets/img/skills/bash.svg" height="45" title="Bash" alt="Bash">
   <img src="assets/img/skills/matlab.svg" height="45" title="MATLAB" alt="MATLAB">
   <img src="assets/img/skills/ros2.png" height="45" title="ROS2" alt="ROS2">
   <img src="assets/img/skills/gazebo.svg" height="45" title="Gazebo" alt="Gazebo">
-  <img src="assets/img/skills/ubuntu.svg" height="45" title="Ubuntu" alt="Ubuntu">
   <img src="assets/img/skills/pcl.png" height="45" title="pcl" alt="pcl">
   <img src="assets/img/skills/minitab.png" height="45" title="Minitab" alt="Minitab">
 </div>
