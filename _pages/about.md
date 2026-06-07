@@ -18,13 +18,10 @@ latest_posts:
   enabled: false
 ---
 
-I study Engineering Physics at McMaster University with a focus on robotics systems engineering. My technical interests span mechanical design, robot manipulation, and systems integration, with a particular interest in applications where engineering complexity serves a clear and purposeful mission.
-
-Currently, I conduct research in robotic grasp planning and manipulation under Dr. Gary Bone in McMaster's Department of Mechanical Engineering. I am also a member of McMaster's Mars Rover Team, where I independently designed and built mechanical systems for a Mars-analog rover being developed for the University Rover Challenge (URC).
-
-In parallel, I collaborate with Dr. Konstantinos Tselios, physician-scientist at McMaster's Lupus Clinic, on the development of a novel diagnostic approach for Systemic Lupus Erythematosus (SLE), building upon work conducted through Aletheia, an independent research initiative I founded to pursue original scientific research outside of coursework.
-
-My work has been recognized at the Regeneron International Science and Engineering Fair (ISEF), where I represented Canada and placed 4th in Health Sciences. I am also a 2025 Schulich Leader Nominee and have received more than 30 awards through five years of competition at the Bay Area Science and Engineering Fair (BASEF).
+Hello! I am Maya, an undergraduate Engineering student at McMaster University.
+I build things, research things, and compete. My work spans robotic systems and manipulation, hardware design, and independent scientific research — from building a mind-controlled robotic hand to founding my own research initiative at 17.
+Currently I conduct research in robotic grasp planning and manipulation under Dr. Gary Bone in McMaster's Department of Mechanical Engineering, and serve as Communications and Mechanical Subteam member on McMaster's Mars Rover Team, leading the end-to-end communications system from concept through field deployment.
+I am driven toward robotics hardware and systems engineering — progressively deepening from software and simulation into mechanical design and electrical systems, with a materials engineering foundation that sharpens how I think and build in the physical world.
 
 ---
 
@@ -131,7 +128,7 @@ My work has been recognized at the Regeneron International Science and Engineeri
   <div class="col-sm-10">
     <strong>McMaster University</strong><br>
     <span class="text-muted">B.Eng. | 2025–2029 (expected)</span><br>
-    <strong>Engineering Physics — Minors in Mechanical and Computer Engineering (intended)</strong><br>
+    <strong>MSE </strong><br>
     Clubs: Christian Orthodox Campus-Ministry Association (COCA), McMaster Mars Rover Team (MMRT), McMaster Catholic Chaplaincy (MCC)
   </div>
 </div>
