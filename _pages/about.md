@@ -20,11 +20,11 @@ latest_posts:
 
 Hello! I am Maya, an undergraduate Engineering student at McMaster University.
 
-I build things, research things, and compete. My work spans robotic systems and manipulation, hardware design, and independent scientific research — from building a mind-controlled robotic hand to founding my own research initiative at 17.
+I build things, research things, and compete. My work spans robotic systems and manipulation, hardware design, and independent scientific research, from building a mind-controlled robotic hand to founding my own research initiative at 17.
 
 Currently I conduct research in robotic grasp planning and manipulation under Dr. Gary Bone in McMaster's Department of Mechanical Engineering, and serve as Communications and Mechanical Subteam member on McMaster's Mars Rover Team, leading the end-to-end communications system from concept through field deployment.
 
-I am driven toward robotics hardware and systems engineering — progressively deepening from software and simulation into mechanical design and electrical systems, with a materials engineering foundation that sharpens how I think and build in the physical world.
+I am driven toward robotics hardware and systems engineering, progressively deepening from software and simulation into mechanical design and electrical systems, with a materials engineering foundation that sharpens how I think and build in the physical world.
 
 ---
 
