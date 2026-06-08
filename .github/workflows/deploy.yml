@@ -91,15 +91,15 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
-       - name: Install and Build 🔧
-         env:
-           DEBIAN_FRONTEND: noninteractive
-         run: |
-           sudo apt-get update
-           sudo apt-get install -y --no-install-recommends imagemagick
-           pip3 install --upgrade nbconvert
-           export JEKYLL_ENV=production
-           bundle exec jekyll build --trace
+      - name: Install and Build 🔧
+        env:
+          DEBIAN_FRONTEND: noninteractive
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends imagemagick
+          pip3 install --upgrade nbconvert
+          export JEKYLL_ENV=production
+          bundle exec jekyll build --trace
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
