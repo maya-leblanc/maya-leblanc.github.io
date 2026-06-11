@@ -6,7 +6,7 @@ subtitle: <a href="https://www.mcmaster.ca">McMaster University</a>
 
 profile:
   align: right
-  image: maya_new.jpg
+  image: mayal.jpg
   image_circular: false
 
 selected_papers: false
