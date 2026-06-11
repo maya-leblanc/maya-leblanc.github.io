@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: First-Year Engineering | <a href="https://www.mcmaster.ca">McMaster University</a>
+subtitle: <a href="https://www.mcmaster.ca">McMaster University</a>
 
 profile:
   align: right
