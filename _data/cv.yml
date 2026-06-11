@@ -1,18 +1,16 @@
 cv:
   name: Maya LeBlanc
   label: Engineering Student
-  email: 
+  email:
     - stemgirl25@gmail.com
     - leblam22@mcmaster.ca
   image: ""
   summary: idk
-
   social_networks:
     - network: Linkedin
       username: maya-leblanc
     - network: GitHub
       username: maya-leblanc
-
   sections:
     Education:
       - institution: McMaster University
@@ -27,7 +25,6 @@ cv:
         highlights:
           - Description 1.
           - Description 2.
-
     Experience:
       - company: McMaster Robotics and Manufacturing Research
         position: Undergraduate Researcher
