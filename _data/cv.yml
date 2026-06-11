@@ -1,7 +1,9 @@
 cv:
   name: Maya LeBlanc
   label: Engineering Student
-  email: stemgirl25@gmail.com, leblam22@mcmaster.ca
+  email: 
+    - stemgirl25@gmail.com
+    - leblam22@mcmaster.ca
   image: ""
   summary: idk
 
