@@ -63,4 +63,4 @@ The system worked best when I was completely focused and calm, distractions or m
 
 ---
 
-*Project AURA was developed independently and referenced at the Bay Area Science and Engineering Fair (BASEF), 2023. Motor control code (Python and Arduino) for the finger actuation subsystem was written by Jordan LeBlanc.*
+*Project AURA was developed independently. Motor control code (Python and Arduino) for the finger actuation subsystem was originally written by Jordan LeBlanc, but modified independently.
