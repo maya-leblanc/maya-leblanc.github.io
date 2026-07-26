@@ -1,14 +1,37 @@
 ---
 layout: page
-title: Genetic Analysis of Monocyte and T Lymphocyte Cells for Lupus Diagnostics
-description: Independent bioinformatics research identifying a novel gene expression signature and diagnostic criteria for systemic lupus erythematosus (SLE).
+title: A Novel Gene Signature & Diagnostic Tool for Lupus (SLE)
+description: Published bioinformatics research analyzing 54,675 gene probes across three immune cell types to identify a novel 5-gene expression signature for systemic lupus erythematosus — and diagnostic criteria for a potential single blood-test tool. International Journal of High School Research, 2025.
 img: assets/img/projects/lupus_research.png
 importance: 1
 category: research
 related_publications: false
 ---
 
-Independent research project analyzing microarray gene expression data from CD16+ monocytes, CD16- monocytes, and CD4+ T lymphocytes to identify a novel gene expression signature for systemic lupus erythematosus (SLE), and to establish diagnostic criteria that could support a single-test diagnostic tool.
+Peer-reviewed, published computational-biology research. I analyzed **54,675 gene probes** across three immune cell types from lupus patients and healthy controls, built a full statistical pipeline to isolate the genes most strongly associated with the disease, and identified a **novel five-gene expression signature** in CD16⁻ monocytes — then translated it into diagnostic value ranges for a potential single blood-test tool. Systemic lupus erythematosus (SLE) currently has **no single diagnostic test** and takes an average of six years to diagnose; this work is a step toward changing that.
+
+<div style="border-left: 4px solid var(--global-theme-color); padding: 0.5rem 1rem; margin: 1.25rem 0;">
+<strong>Published</strong> — <em>International Journal of High School Research</em>, vol. 7, no. 9 (2025) · DOI: <a href="https://doi.org/10.36838/v7i9.80" target="_blank" rel="noopener noreferrer">10.36838/v7i9.80</a>
+</div>
+
+<div class="row text-center mt-4 mb-4">
+  <div class="col-6 col-md-3 mb-3">
+    <div style="font-size: 2.2rem; font-weight: 700; color: var(--global-theme-color); line-height: 1;">54,675</div>
+    <div style="font-size: 0.8rem; opacity: 0.8;">Gene probes screened<br>per cell type</div>
+  </div>
+  <div class="col-6 col-md-3 mb-3">
+    <div style="font-size: 2.2rem; font-weight: 700; color: var(--global-theme-color); line-height: 1;">5</div>
+    <div style="font-size: 0.8rem; opacity: 0.8;">Novel signature genes<br>identified</div>
+  </div>
+  <div class="col-6 col-md-3 mb-3">
+    <div style="font-size: 2.2rem; font-weight: 700; color: var(--global-theme-color); line-height: 1;">7.3×10⁻⁷</div>
+    <div style="font-size: 0.8rem; opacity: 0.8;">Strongest p-value<br>(statistical significance)</div>
+  </div>
+  <div class="col-6 col-md-3 mb-3">
+    <div style="font-size: 2.2rem; font-weight: 700; color: var(--global-theme-color); line-height: 1;">1</div>
+    <div style="font-size: 0.8rem; opacity: 0.8;">Blood test vs. today's<br>6-year diagnosis</div>
+  </div>
+</div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -16,63 +39,72 @@ Independent research project analyzing microarray gene expression data from CD16
     </div>
 </div>
 <div class="caption">
-    Genetic analysis of CD16+ monocyte, CD16- monocyte, and CD4+ T lymphocyte gene expression to identify a novel SLE diagnostic signature.
+    Gene-expression analysis across CD16⁺ monocyte, CD16⁻ monocyte, and CD4⁺ T-lymphocyte cell types to identify a novel SLE diagnostic signature.
 </div>
 
-**Tools:** bioinformatics, biostatistics, Python, Minitab, gene expression microarray analysis.
+## The problem
 
-**Presented at:** BMED062, independent research
+Systemic lupus erythematosus is an incurable autoimmune disease in which the immune system attacks the body's own tissues, driving inflammation and organ damage across the joints, skin, kidneys, lungs, brain, and blood vessels. It is nicknamed **"the great imitator"** because its symptoms overlap with dozens of other conditions — which is why diagnosis takes an average of **six years** from first symptoms and relies on a patchwork of medical history, physical exams, ANA blood tests, and biopsies that mostly *rule out* other diseases rather than confirm SLE. **No single conclusive test exists.** That delay costs patients years of untreated progression and burdens the healthcare system with repeated, often inconclusive testing.
 
----
+## Objective &amp; hypothesis
 
-### The Problem
+Evaluate gene expression across CD16⁺ monocytes, CD16⁻ monocytes, and CD4⁺ T lymphocytes to find an expression signature unique to SLE, and determine whether that signature could form the basis of a diagnostic tool. **Hypothesis:** comparing expression between healthy and SLE cohorts across these three cell types will reveal differences unique to SLE — rejecting the null hypothesis of no difference. The work is deliberately novel in focusing on **CD16⁻ (classical) monocytes**, a subset far less explored in SLE diagnostics than the pro-inflammatory CD16⁺ subset.
 
-Systemic lupus erythematosus (SLE) is an incurable autoimmune disease in which the immune system attacks the body's own tissues, causing widespread inflammation and organ damage. It carries an annual mortality rate of 18.6 per 1,000 diagnosed persons and is often called "the great imitator" because its symptoms overlap with dozens of other conditions. As a result, diagnosis takes an average of six years, relies on a patchwork of lab tests, biopsies, and imaging, and drives up healthcare costs through repeated and often inconclusive testing. **No single test currently exists to diagnose SLE.**
+## Methodology
 
-### Research Goals
+I built and ran the full analysis pipeline end to end:
 
-1. Evaluate gene expression in CD16+ monocytes, CD16- monocytes, and CD4+ T lymphocytes to identify gene expression signatures unique to SLE, with the goal of improving diagnostic accuracy and speed.
-2. Determine whether any identified signature could serve as the basis for a diagnostic tool.
+| Element | Detail |
+|---|---|
+| Data source | Gene Expression Omnibus (NCBI) — datasets GDS4888, GDS4889, GDS4890 |
+| Scale | 54,675 gene probes × 3 immune cell types |
+| Cohort | Female SLE patients vs. healthy controls (aged 24–29) |
+| Preprocessing | Normalization (Affymetrix GCOS), differential-expression filtering (BioRetis), hierarchical clustering (Genesis) |
+| Significance testing | One-tailed t-test; hetero- or homoscedastic selected by a 1.5 variance-ratio threshold; p < 0.0001 |
+| Distribution validation | Quantile-quantile plots via a custom Python–Minitab interface |
+| Toolchain | Excel, Affymetrix GCOS, BioRetis, Genesis, Python 3.12, Minitab, VS Code |
 
-**Hypothesis:** Comparing gene expression across these three cell types between healthy individuals and SLE patients will reveal expression differences unique to SLE (rejecting the null hypothesis of no difference).
+Every one of the 54,675 probes in each dataset was variance-tested to choose the correct t-test, then p-value-ranked to surface the strongest signals — a large-scale, reproducible statistical workflow. Quantile-quantile plots confirmed the data was statistically appropriate (approximately normal) for the analysis.
 
-### Methodology
+## Results: a novel five-gene signature
 
-**Step I — Data Acquisition and Normalization**
-Raw microarray gene probe data (54,675 probes across 3 cell types) was obtained from the Gene Expression Omnibus (GEO), NCBI, using datasets GDS4888 (CD4+ T lymphocytes), GDS4889 (CD16- monocytes), and GDS4890 (CD16+ monocytes). Data was normalized with Affymetrix GCOS software, filtered for differentially expressed probe sets in BioRetis, cross-referenced against published interferon-regulated transcript lists, and clustered using Genesis.
+The five probes with the most significant differences between healthy and SLE cohorts mapped to the genes **ATP6V0C, UBA1, TGFB1, STAT1, and NFYC**, with p-values spanning **1.9×10⁻⁴ to 7.3×10⁻⁷**. The **CD16⁻ monocyte** cell type produced the most consistent, statistically robust separation across all probes (p-values from **1.4×10⁻⁶ to 7.3×10⁻⁷**), making it the most diagnostically informative cell type.
 
-**Step II — Statistical Significance Testing**
-Gene probe values for healthy versus SLE cohorts were compared using one-tailed t-tests (heteroscedastic or homoscedastic, selected via a 1.5 variance-ratio threshold) across all 54,675 probes for each cell type. The five gene probes with the lowest p-values across all three cell types were selected for further evaluation, with resulting p-values ranging from 1.9×10⁻⁴ to 7.3×10⁻⁷ — confirming statistically significant differences between cohorts.
+Benchmarking these genes against a published catalog of 50+ known SLE-associated genes confirmed that **none of the five had previously been linked to SLE** — establishing a genuinely novel expression signature.
 
-**Step III — Identifying a Novel Gene Expression Signature**
-Of the five candidate genes, NFYC and STAT1 were excluded as transcription-regulation genes rather than genes tied to vital cellular function. The remaining three — **ATP6V0C, UBA1, and TGFB1** — were cross-referenced against published SLE-associated gene databases and confirmed as *not currently known to be associated with SLE*. Quantile-quantile plots (generated via a custom Python–Minitab interface) confirmed the data followed a normal distribution, validating the statistical approach.
-
-**Step IV — Establishing Diagnostic Criteria**
-For each of the three genes, a hypothetical gene probe value was iteratively introduced into the CD16- monocyte dataset to model the relationship between probe value and statistical significance. This produced minimum and maximum gene probe value thresholds (at p = 1×10⁻⁴) that define a diagnostic range for each gene.
-
-### Key Findings
-
-| Gene | Best p-value (CD16- monocytes) | Diagnostic range (probe value) |
+| Gene | Cellular role | Diagnostic range (CD16⁻, p < 10⁻⁴) |
 |---|---|---|
-| UBA1 | 4.6×10⁻⁶ | 376 – 699 |
-| TGFB1 | 7.3×10⁻⁷ | 420 – 721 |
-| ATP6V0C | 1.4×10⁻⁶ | 785 – 1312 |
+| ATP6V0C | V-ATPase proton pump; cellular pH balance | 785 – 1312 |
+| UBA1 | Ubiquitin-activating enzyme; protein turnover | 376 – 699 |
+| TGFB1 | TGF-β1 cytokine; immune regulation | 420 – 721 |
+| STAT1 | Transcription factor; interferon signaling | 4004 – 4017 |
+| NFYC | Transcription factor; gene-expression regulation | 254 – 320 |
 
-The **CD16- monocyte cell type** produced the strongest statistical separation between healthy and SLE cohorts across all three genes, making it the most diagnostically informative cell type identified in this study.
+## From signature to diagnostic tool
 
-> Gene probes associated with ATP6V0C, UBA1, and TGFB1 in CD16- monocytes represent a novel gene expression signature for the identification of SLE — the first study to establish this specific signature and associated diagnostic criteria.
+For each gene, I iteratively modeled how the probe value relates to statistical significance, deriving the high/low expression thresholds (at p = 1×10⁻⁴) that define a diagnostic range. That yields a concrete, four-step test concept:
 
-### Conclusions
+1. Draw a single blood sample.
+2. Isolate CD16⁻ monocytes.
+3. Measure expression of the five signature-gene probes.
+4. Compare against the established ranges to flag SLE.
 
-- A statistically significant difference (p < 1.4×10⁻⁶) in gene probe values for ATP6V0C, UBA1, and TGFB1 was confirmed between healthy and SLE cohorts across all three cell types, rejecting the null hypothesis.
-- CD16- monocytes were identified as the strongest indicator of this difference (1.4×10⁻⁶ < p < 7.3×10⁻⁷).
-- These three genes, in CD16- monocytes, constitute a novel gene expression signature not previously documented in SLE literature.
-- Diagnostic criteria based on this signature's high/low probe value thresholds (p < 0.0001) were developed as the basis for a potential single-test diagnostic tool.
+A single-sample test like this could compress the current six-year diagnostic odyssey into one blood draw — getting patients to treatment sooner while cutting the cost of redundant testing. (The tool is a validated *criteria framework*; clinical deployment would require large-cohort validation.)
 
-### Societal Impact & Future Research
+## Impact &amp; future work
 
-A validated diagnostic signature could meaningfully shorten the current six-year average time to SLE diagnosis, reduce costs associated with redundant testing, and get patients into appropriate treatment faster. Extending this work would require validating the signature against a larger cohort to improve statistical power, and longer-term studies involving asymptomatic individuals to test whether the signature can also indicate predisposition to SLE before onset.
+A validated signature could shorten time-to-diagnosis, reduce healthcare costs, and speed treatment. The natural extensions: validate against a larger cohort to strengthen statistical power beyond this study's small sample, and run longitudinal studies including asymptomatic individuals to test whether the same signature can flag genetic *predisposition* to SLE before onset — a quantitative early-warning capability that, to my knowledge, does not yet exist.
+
+<div style="font-size: 0.85rem; opacity: 0.85; margin-top: 1rem;">
+Research direction guided by Dr. Mathieu Lupien, Ornela Kljakic, and Dr. Guillaume Bourque, with expert review by Dr. Dawn Bowdish, Dr. Jessica A. Breznik, and Dr. Konstantinos Tselios.
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0 text-center">
+        <a href="https://doi.org/10.36838/v7i9.80" target="_blank" rel="noopener noreferrer" class="btn btn-outline-dark">Read the published paper</a>
+    </div>
+</div>
 
 ---
 
-*Special thanks to Dr. Mathieu Lupien, Ornela Kljakic, and Dr. Guillaume Bourque for their guidance in defining this project's research direction.*
+**Engineering &amp; research skills:** bioinformatics · transcriptomic data analysis · biostatistics (t-tests, variance modeling, Q-Q validation) · large-scale data processing (54,675 probes × 3 datasets) · Python · Minitab · custom tool integration · scientific writing &amp; peer-reviewed publication.
