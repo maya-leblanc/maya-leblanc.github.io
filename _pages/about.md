@@ -104,8 +104,8 @@ I am driven toward robotics hardware and systems engineering, progressively deep
   </div>
   <div class="col-sm-9">
     <strong><a href="/projects/grasp_detection">Power Grasp Detection on 3D Objects via Multi-Height Mesh Analysis</a></strong><br>
-    <span class="text-muted">[Robotics Research] @ McMaster RMAL — referred by Dr. Gary Bone, PhD</span><br>
-    <strong>Complete.</strong> Grasp planning algorithm for 3D objects using multi-height mesh analysis. MATLAB, computational geometry, algorithm design.
+    <span class="text-muted">[Robotics Research] @ McMaster Robtics and Manufacturing Automation Lab — referred by Dr. Gary Bone, PhD</span><br>
+    <strong>In progress</strong> A novel grasp-planning algorithm for robotic fruit-harvesting, validated on realistic depth-sensor data via a custom ROS 2/Gazebo perception-to-planning pipeline.
   </div>
 </div>
 
@@ -115,8 +115,8 @@ I am driven toward robotics hardware and systems engineering, progressively deep
   </div>
   <div class="col-sm-9">
     <strong><a href="/projects/isef_lupus">Genetic Analysis of CD16+/- Monocytes & CD4+ T Cells for SLE Diagnostic Tool</a></strong><br>
-    <span class="text-muted">[Research Project] @ Aletheia / ISEF 2024</span><br>
-    <strong>Published.</strong> Computational immunogenomics research identifying novel gene signatures for Systemic Lupus Erythematosus diagnosis. 4th Place Grand Award at ISEF 2024, CWSF Silver Medal, BASEF Best in Fair.
+    <span class="text-muted">[Research Project] @ Aletheia/ISEF 2024</span><br>
+    <strong>Published.</strong> Computational immunogenomics research identifying novel gene signatures for Systemic Lupus Erythematosus diagnosis. 4th Place Grand Award at ISEF 2024, CWSF Silver Medal, BASEF Best in Fair, published in IJHSR 2025.
   </div>
 </div>
 
@@ -131,7 +131,7 @@ I am driven toward robotics hardware and systems engineering, progressively deep
   <div class="col-sm-10">
     <strong>McMaster University</strong><br>
     <span class="text-muted">B.Eng. | 2025–2029 (expected)</span><br>
-    <strong>MSE </strong><br>
+    <strong>Materials Engineering </strong><br>
     Clubs: Christian Orthodox Campus-Ministry Association (COCA), McMaster Mars Rover Team (MMRT), McMaster Catholic Chaplaincy (MCC)
   </div>
 </div>
