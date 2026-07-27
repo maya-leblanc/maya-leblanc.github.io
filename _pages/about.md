@@ -18,7 +18,7 @@ latest_posts:
   enabled: false
 ---
 
-Hello! I am Maya, an undergraduate Engineering student at McMaster University.
+Hello! I am Maya, an undergraduate engineering student at McMaster University.
 
 I build things, research things, and compete. My work spans robotic systems and manipulation, hardware design, and independent scientific research, from building a mind-controlled robotic hand to founding my own research initiative at 17.
 
