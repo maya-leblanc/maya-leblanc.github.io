@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Power Grasp Detection for Arbitrary 3D Objects
-description: An in-progress robotics algorithm for identifying viable power-grasp regions on arbitrary 3D objects. Referred and guided by Dr. Gary Bone (McMaster Robotics, Manipulation & Autonomy Lab). MATLAB, computational geometry. Active development.
+description: An in-progress robotics algorithm for identifying viable power-grasp regions on arbitrary 3D objects. Referred and guided by Dr. Gary Bone (McMaster Robotics and Manufacturing Automation Lab). MATLAB, computational geometry. Active development.
 img: assets/img/projects/grasp_plan.png
 importance: 3
 category: robotics
