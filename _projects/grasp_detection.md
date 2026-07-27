@@ -39,7 +39,7 @@ The algorithm is in active development — I'm refining the core approach and va
 
 ## Context
 
-Referred and mentored by **Dr. Gary Bone**, whose Robotics, Manipulation &amp; Autonomy Lab at McMaster works on robotic grasping and autonomous manipulation — situating the project within active academic research in the field.
+Referred and mentored by **Dr. Gary Bone**, whose Robotics and Manufacturing Automation Lab at McMaster works on robotic grasping and autonomous manipulation — situating the project within active academic research in the field.
 
 ---
 
