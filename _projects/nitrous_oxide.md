@@ -95,6 +95,15 @@ The **dependent variable** is N₂O concentration leaving the scrubber, the goal
 
 With physical reagents out of budget, I built the entire apparatus as a 3D model and animated the full process, helium purge, enzyme loading, N₂O introduction, the molecular-level catalytic cycle, and effluent discharge, in Autodesk 3ds Max. The model resolved the system's size, configuration, and component orientation and demonstrated that the gas flow, chemistry, and control logic behave as intended, giving design confidence for a lab-scale build. [View the process animation.](https://youtu.be/SwZqGICSLOo)
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/SwZqGICSLOo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    3D process simulation — helium purge, enzyme loading, N₂O reduction, and effluent discharge (Autodesk 3ds Max).
+</div>
+
 ## Conclusions &amp; future steps
 
 The design phase is complete and supports the hypothesis that a NosZ-based filter can reduce industrial N₂O emissions. The validated digital prototype is ready for the next stage: securing government or private funding to fabricate and run the lab-scale scrubber, then advancing to a small-scale real-world unit drawing waste gas from an industrial facility, and ultimately a full-scale deployment.
