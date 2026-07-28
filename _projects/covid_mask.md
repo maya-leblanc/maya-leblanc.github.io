@@ -112,6 +112,6 @@ Benchmarked against a medical N-95 (99.998% total), the engineered household sta
 
 ---
 
-**Recognition:** Bay Area Science &amp; Engineering Fair (BASEF) 2021.
+**Awards:** Hamilton Academy of Dentistry Award — Second Place, John W. Howard Materials Research Award, Silver Merit Award, Bay Area Science &amp; Engineering Fair (BASEF) 2021.
 
 **Engineering skills:** experimental design · test-apparatus fabrication · aerosol instrumentation (TSI DustTrak DRX) · materials characterization · data analysis · design of experiments · public-health engineering.
