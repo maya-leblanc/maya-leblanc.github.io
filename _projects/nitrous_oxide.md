@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nitrous Oxide Reduction in an Industrial Wet Scrubber Using NosZ Reductase
-description: Engineered and simulated an industrial wet scrubber that uses the NosZ enzyme from P. denitrificans to convert nitrous oxide — a greenhouse gas 300× more potent than CO₂ — into inert N₂ and water. Silver at BASEF 2023, Silver Merit at CWSF 2023, Ingenious+ 2025.
+description: Engineered and simulated an industrial wet scrubber that uses the NosZ enzyme from P. denitrificans to convert nitrous oxide, a greenhouse gas 300× more potent than CO₂, into inert N₂ and water. Silver at BASEF 2023, Silver Merit at CWSF 2023, Ingenious+ 2025.
 img: assets/img/projects/nitrous.png
 importance: 2
 category: research
@@ -105,6 +105,6 @@ The design phase is complete and supports the hypothesis that a NosZ-based filte
 
 - BASEF 2023 — Canada-Wide Science Fair Trip Award, Silver Merit Award, Association for Iron and Steel Technology Northern Chapter Award, ArcelorMittal Dofasco Environment Award, Association for Iron and Steel Technology Northern Chapter Award, Hamilton Chamber of Commerce Innovation Award — First Place, 
 - CWSF 2023 — Bronze Merit Award
-- Ingenious+ 2025 recognition
+- Regional Ontario Ingenious+ Youth Innovation Challenge Award 2025, Rideau Hall Foundation & The Honourable Edith Dumont
 
 **Engineering skills:** process &amp; reactor design · 3D modeling &amp; simulation (Autodesk 3ds Max) · gas-treatment/scrubber systems · biochemical &amp; enzyme engineering · design-of-experiments · instrumentation &amp; controls · systems integration.
