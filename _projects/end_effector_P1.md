@@ -31,7 +31,7 @@ A full engineering-design-cycle project: my five-person team designed, fabricate
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/end_effector.jpg" title="Robotic End Effector" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/robotic.png" title="Robotic End Effector" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
