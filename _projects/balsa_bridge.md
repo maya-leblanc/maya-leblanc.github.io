@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Balsa Wood Bridge — PEO Structural Design Competition
+title: Balsa Wood Bridge: PEO Structural Design Competition
 description: Designed and hand-built a balsa-wood bridge optimized for load-to-weight efficiency, placing 3rd for Force and 5th Overall against 300+ entries at the PEO / Sault College Bridge Building Competition 2024.
 img: assets/img/projects/balsa.png
 importance: 3
