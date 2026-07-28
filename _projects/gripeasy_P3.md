@@ -31,7 +31,7 @@ A human-centered engineering-design project built around a real client. As team 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/gripeasy.jpg" title="GripEase assistive device" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/grizzly.png" title="GripEase assistive device" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
