@@ -134,7 +134,7 @@ Because my home wasn't a sealed environment, Specimen 1 couldn't serve as a true
 
 ---
 
-**Awards and Recognition** Canada-Wide Science Fair Trip Award, Silver Merit Award, Royal Botanical Gardens Award, Earth and Environmental Sciences Award, McMaster Department of Chemical Engineering Award, Ricoh USA, Inc. Award, Hillfield Strathallan College Award of Excellence — Scientific Process, Canadian Nuclear Society Award — Intermediate (Golden Horseshoe Branch), ArcelorMittal Dofasco Hot Mill Award, Bay Area Science &amp; Engineering Fair (BASEF) 2022 · Intact Climate Change Resilience Special Award, Bronze Merit Award, Canada-Wide Science Fair (CWSF) 2022.
+**Awards and Recognition** Canada-Wide Science Fair Trip Award, Silver Merit Award, Royal Botanical Gardens Award, Earth and Environmental Sciences Award, McMaster Department of Chemical Engineering Award, Ricoh USA, Inc. Award, Hillfield Strathallan College Award of Excellence — Scientific Process, Canadian Nuclear Society Award — Intermediate (Golden Horseshoe Branch), ArcelorMittal Dofasco Hot Mill Award, Bay Area Science &amp; Engineering Fair (BASEF) 2022 · Intact Climate Change Resilience Special Award, Bronze Merit Award, Canada-Wide Science Fair (CWSF) · 2022 Member of Parliament Recognition Certificate & Queen’s Platinum Jubilee Medal
 
 **Published:** Canadian Science Fair Journal.
 
