@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Household Fabric Aerosol Filtration & Improved COVID-19 Mask Design
-description: Designed and built a dual-sensor aerosol test rig, screened 30 household fabrics, and engineered a 3-layer mask stack reaching 99.4% filtration efficiency — approaching N-95 performance. BASEF 2021.
+description: Designed and built a dual-sensor aerosol test rig, screened 30 household fabrics, and developed a 3-layer mask stack reaching 99.4% filtration efficiency, approaching N-95 performance. BASEF 2021.
 img: assets/img/projects/grade8.png
 importance: 5
 category: research
 related_publications: false
 ---
 
-An end-to-end materials and test-engineering project: I designed and fabricated a custom aerosol filtration test apparatus, screened 30 household fabrics against a challenge aerosol, and engineered an optimized multi-layer fabric stack that reached **99.4% total filtration efficiency** and **98.9% capture of sub-micron (PM1) particles** — closing most of the gap to a medical N-95 (99.998%).
+An end-to-end materials and test-engineering project: I designed and fabricated a custom aerosol filtration test apparatus, screened 30 household fabrics against a challenge aerosol, and developed an optimized multi-layer fabric stack that reached **99.4% total filtration efficiency** and **98.9% capture of sub-micron (PM1) particles**, closing most of the gap to a medical N-95 (99.998%).
 
 <div class="row text-center mt-4 mb-4">
   <div class="col-6 col-md-3 mb-3">
@@ -31,7 +31,7 @@ An end-to-end materials and test-engineering project: I designed and fabricated 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/covid_mask.jpg" title="COVID mask filtration research" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/grade8.png" title="COVID mask filtration research" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -40,11 +40,11 @@ An end-to-end materials and test-engineering project: I designed and fabricated 
 
 ## The problem
 
-Early in the COVID-19 pandemic — before vaccines were widely available — masks were the primary line of defense, yet medical-grade N-95 respirators were scarce and unaffordable for much of the public. I set out to answer a concrete engineering question: **can common household fabrics, combined intelligently, deliver filtration performance approaching a medical mask?**
+Early in the COVID-19 pandemic, before vaccines were widely available, masks were the primary line of defense, yet medical-grade N-95 respirators were scarce and unaffordable for much of the public. I set out to answer a concrete engineering question: **can common household fabrics, combined intelligently, deliver filtration performance approaching a medical mask?**
 
 ## Engineering objective
 
-Build a repeatable method to measure the aerosol-filtration efficiency of household fabrics, identify the best-performing materials, and engineer a layered configuration that maximizes particle capture — then benchmark it against an N-95 reference.
+Build a repeatable method to measure the aerosol-filtration efficiency of household fabrics, identify the best-performing materials, and engineer a layered configuration that maximizes particle capture, then benchmark it against an N-95 reference.
 
 ## Design &amp; build: a custom aerosol test rig
 
