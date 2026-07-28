@@ -1,14 +1,23 @@
 ---
 layout: page
 title: Carbon Capture via Catalyzed Photosynthesis to Promote Crop Growth
-description: Designed and built airtight greenhouse enclosures to test catalyzed photosynthesis, achieving 4.3× higher CO₂ uptake and 35.2 mg/plant/day of incremental capture — then modeled national-scale climate impact and full business feasibility. BASEF & CWSF 2022; published in the Canadian Science Fair Journal.
+description: Designed and built airtight greenhouse enclosures to test catalyzed photosynthesis, achieving 4.3× higher CO₂ uptake and 35.2 mg/plant/day of incremental capture, then modeled national-scale climate impact and full business feasibility. BASEF & CWSF 2022; published in the Canadian Science Fair Journal.
 img: assets/img/projects/carbon.png
 importance: 4
 category: research
 related_publications: true
 ---
 
-An environmental- and systems-engineering project spanning hardware, data, and economics: I designed and fabricated sealed greenhouse enclosures with integrated CO₂, lighting, airflow, water, and sensing subsystems, ran a three-cycle experiment to prove that applied CO₂ **plus** an applied light source accelerates photosynthetic carbon capture, then modeled the national-scale climate impact and built a company-level business case. The catalyzed process captured CO₂ at **4.3× the rate** of the CO₂-only condition — an incremental **35.2 mg of CO₂ per plant per day**.
+An environmental- and systems-engineering project spanning hardware, data, and economics: I designed and fabricated sealed greenhouse enclosures with integrated CO₂, lighting, airflow, water, and sensing subsystems, ran a three-cycle experiment to prove that applied CO₂ **plus** an applied light source accelerates photosynthetic carbon capture, then modeled the national-scale climate impact and built a company-level business case. The catalyzed process captured CO₂ at **4.3× the rate** of the CO₂-only condition, an incremental **35.2 mg of CO₂ per plant per day**.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/dp6Movgbk9o" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Project overview — catalyzed photosynthesis carbon capture (BASEF & CWSF 2022).
+</div>
 
 <div class="row text-center mt-4 mb-4">
   <div class="col-6 col-md-3 mb-3">
@@ -40,11 +49,11 @@ An environmental- and systems-engineering project spanning hardware, data, and e
 
 ## The problem
 
-Industrial carbon capture pulls CO₂ out of factory emissions, but the captured gas has to *go* somewhere — often into pressurized tanks or deep geologic storage, where a future leak would release it all over again. I wanted a route that consumes captured CO₂ productively instead of merely storing it: **feed industrial CO₂ into greenhouses to accelerate crop growth, turning a waste stream into food and permanent drawdown.**
+Industrial carbon capture pulls CO₂ out of factory emissions, but the captured gas has to *go* somewhere, often into pressurized tanks or deep geologic storage, where a future leak would release it all over again. I wanted a route that consumes captured CO₂ productively instead of merely storing it: **feed industrial CO₂ into greenhouses to accelerate crop growth, turning a waste stream into food and permanent drawdown.**
 
 ## Engineering objective
 
-Prove, under controlled conditions, that combining applied CO₂ with an applied light source measurably increases a plant's photosynthetic CO₂ consumption — then quantify that gain and evaluate whether it scales to a meaningful climate and commercial impact.
+Prove, under controlled conditions, that combining applied CO₂ with an applied light source measurably increases a plant's photosynthetic CO₂ consumption, then quantify that gain and evaluate whether it scales to a meaningful climate and commercial impact.
 
 ## Design &amp; build: sealed greenhouse enclosures
 
@@ -56,14 +65,14 @@ The experiment compared three garden-cress specimens under different atmospheres
 | **Specimen 2** | Sealed enclosure + applied CO₂ |
 | **Specimen 3** | Sealed enclosure + applied CO₂ + applied grow light |
 
-Specimens 2 and 3 needed airtight enclosures, so I designed and fabricated them from repurposed CNC-machine housings. Each build integrated five subsystems that all had to pass through the shell **without breaking the air seal** — the central engineering constraint, since any leak corrupts the CO₂ measurement:
+Specimens 2 and 3 needed airtight enclosures, so I designed and fabricated them from repurposed CNC-machine housings. Each build integrated five subsystems that all had to pass through the shell **without breaking the air seal**, the central engineering constraint, since any leak corrupts the CO₂ measurement:
 
-- **Compression-sealed lid** — aluminum channel frame, weather stripping, and corner angle brackets with tightening bolts to clamp the lid gas-tight.
-- **CO₂ delivery** — SodaStream cylinder metered through a sealed hose-barb inlet; target concentration **3,000–4,000 ppm** (Health Canada's recommended indoor maximum is 3,500 ppm).
-- **Lighting** — a 15 W LED grow light for the catalyzed specimen.
-- **Airflow** — two internal fans, wired out through sealed hose-barb penetrations to external USB transformers, to keep the atmosphere well mixed before sampling.
+- **Compression-sealed lid**: aluminum channel frame, weather stripping, and corner angle brackets with tightening bolts to clamp the lid gas-tight.
+- **CO₂ delivery**: SodaStream cylinder metered through a sealed hose-barb inlet; target concentration **3,000–4,000 ppm** (Health Canada's recommended indoor maximum is 3,500 ppm).
+- **Lighting**: a 15 W LED grow light for the catalyzed specimen.
+- **Airflow**: two internal fans, wired out through sealed hose-barb penetrations to external USB transformers, to keep the atmosphere well mixed before sampling.
 - **Internal irrigation** — an external Y-fitting feeding a through-lid line to a T-fitting and twin semicircular tubes that deliver water directly to the pots without opening the enclosure.
-- **Sensing** — a TSI Q-Trak 7575-X with an 982 probe, sealed through the lid so CO₂ could be measured without breaking containment.
+- **Sensing**: a TSI Q-Trak 7575-X with an 982 probe, sealed through the lid so CO₂ could be measured without breaking containment.
 
 Every joint, corner, and penetration was sealed with silicone and cured before testing.
 
@@ -100,15 +109,24 @@ I extrapolated the measured rate to estimate real-world greenhouse deployment. A
 | Offset all road-transport emissions (137 Mt/yr) | ~21.3 M hectares | 31% |
 | Meet Canada's 2030 target (299 Mt reduction) | ~46.5 M hectares | 68% |
 
-Covering a third to two-thirds of national farmland isn't realistic, but the analysis frames the honest scale of the lever — and shows that partial deployment still delivers meaningful drawdown while producing food.
+Covering a third to two-thirds of national farmland isn't realistic, but the analysis frames the honest scale of the lever, and shows that partial deployment still delivers meaningful drawdown while producing food.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/Q6CcDOKIR1I" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Business concept pitch for the greenhouse carbon-capture service.
+</div>
 
 ## Feasibility: business case
 
 To test commercial viability I built a company-level plan around designing, installing, and servicing these greenhouses for farmers, funded through government incentives and carbon-emitter contributions:
 
-- **Cost structure** — ~$830K/year in staffing (service technicians across every province, sales, government lobbying, project management, accounting), for total operating costs of roughly **$970K–$1M/year**.
-- **Pricing model** — installations quoted at contractor cost plus 10% overhead and 10% profit (e.g. $3/ft² → $3.60/ft²); servicing at about **$5,000/month per greenhouse**.
-- **Runway** — the model implies a **3+ year path to break-even** as service contracts ramp, and positions the product against geologic carbon sequestration as a leak-free, food-producing alternative.
+- **Cost structure**: ~$830K/year in staffing (service technicians across every province, sales, government lobbying, project management, accounting), for total operating costs of roughly **$970K–$1M/year**.
+- **Pricing model**: installations quoted at contractor cost plus 10% overhead and 10% profit (e.g. $3/ft² → $3.60/ft²); servicing at about **$5,000/month per greenhouse**.
+- **Runway**: the model implies a **3+ year path to break-even** as service contracts ramp, and positions the product against geologic carbon sequestration as a leak-free, food-producing alternative.
 
 ## Limitations &amp; future work
 
@@ -116,8 +134,15 @@ Because my home wasn't a sealed environment, Specimen 1 couldn't serve as a true
 
 ---
 
-**Recognition:** Bay Area Science &amp; Engineering Fair (BASEF) 2022 · Canada-Wide Science Fair (CWSF) 2022.
+**Awards and Recognition** Canada-Wide Science Fair Trip Award, Silver Merit Award, Royal Botanical Gardens Award, Earth and Environmental Sciences Award, McMaster Department of Chemical Engineering Award, Ricoh USA, Inc. Award, Hillfield Strathallan College Award of Excellence — Scientific Process, Canadian Nuclear Society Award — Intermediate (Golden Horseshoe Branch), ArcelorMittal Dofasco Hot Mill Award, Bay Area Science &amp; Engineering Fair (BASEF) 2022 · Intact Climate Change Resilience Special Award, Bronze Merit Award, Canada-Wide Science Fair (CWSF) 2022.
 
 **Published:** Canadian Science Fair Journal.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0 text-center">
+        <a href="https://static1.squarespace.com/static/5a63b41dd74cff19f40ee749/t/6554d0950b4709638a683a3c/1700057244757/Maya+Leblanc+-+Formatted+CSFJ+Paper+%232.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-outline-dark">Read the paper</a>
+</div>
+
+**Links**: https://partner.projectboard.world/ysc/project/carbon-capture-depletion-using-catalyzed-photosynthesis-to-promote-crop-growth 
 
 **Engineering skills:** apparatus design &amp; fabrication · systems integration (CO₂, lighting, airflow, irrigation, sensing) · sealed-enclosure engineering · instrumentation (TSI Q-Trak) · iterative design &amp; troubleshooting · data analysis · techno-economic modeling · environmental engineering.
