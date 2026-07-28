@@ -40,7 +40,7 @@ An environmental- and systems-engineering project spanning hardware, data, and e
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/carbon_capture.jpg" title="Carbon capture research" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/carbon.png" title="Carbon capture research" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
