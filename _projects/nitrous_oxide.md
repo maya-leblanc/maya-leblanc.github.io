@@ -116,4 +116,6 @@ The design phase is complete and supports the hypothesis that a NosZ-based filte
 - CWSF 2023 — Bronze Merit Award
 - Regional Ontario Ingenious+ Youth Innovation Challenge Award 2025, Rideau Hall Foundation & The Honourable Edith Dumont
 
+**Links**: https://partner.projectboard.world/ysc/project/nitrous-oxide-reduction-in-an-industrial-wet-scrubber-utilizing-nosz-reductase-and-p-denitrificans
+
 **Engineering skills:** process &amp; reactor design · 3D modeling &amp; simulation (Autodesk 3ds Max) · gas-treatment/scrubber systems · biochemical &amp; enzyme engineering · design-of-experiments · instrumentation &amp; controls · systems integration.
