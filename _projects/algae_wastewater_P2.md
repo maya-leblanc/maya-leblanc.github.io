@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Wastewater Filtration System — Material Selection and Life-Cycle Design
+title: Wastewater Filtration System - Material Selection and Life-Cycle Design
 description: A team materials-engineering project using Ashby performance indices, decision matrices, and life-cycle eco-audits to select a Nylon-6 filter (92% cyanobacteria rejection, 80% porosity) for a wastewater treatment plant in the Philippines. McMaster ENGINEER 1P13, 2026.
-img: assets/img/projects/wastewater.png
+img: assets/img/projects/algae.png
 importance: 4
 category: engineering
 related_publications: false
