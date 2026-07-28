@@ -70,6 +70,15 @@ Fabrication meant drilling and sealing rigid sampling ports into the chamber, pl
 4. Capture peak concentrations on the upstream ("before") and downstream ("after") monitors across all PM bands.
 5. Compute filtration efficiency per band; screen single fabrics, then test the strongest performers in 2- and 3-layer combinations.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/8PqtoadXwgU" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Project overview & demonstration of the aerosol filtration test rig and fabric-screening process.
+</div>
+
 ## Results
 
 Screening 30 fabrics surfaced several strong single-layer materials, but the decisive gains came from **layering** — stacking complementary fabrics to capture particles across size ranges.
