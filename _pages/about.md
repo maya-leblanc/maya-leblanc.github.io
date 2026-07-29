@@ -18,13 +18,11 @@ latest_posts:
   enabled: false
 ---
 
-Hello! I am Maya, an undergraduate engineering student at McMaster University.
+Hi! I am Maya, an engineering student at McMaster University. I've built a mind-controlled robotic hand, published independent scientific research twice, and founded my own research initiative at 17 - and across those projects the throughline is the same: I build the instruments and test rigs that turn open physical problems into working systems.
 
-I build things, research things, and compete. My work spans robotic systems and manipulation, hardware design, and independent scientific research, from building a mind-controlled robotic hand to founding my own research initiative at 17.
+I'm currently an undergraduate robotics researcher with Dr. Gary Bone (McMaster Mechanical Engineering, Robotics & Manufacturing Automation Lab), developing a novel grasp-planning algorithm and validating it on realistic depth-sensor data through a custom ROS 2 / Gazebo perception-to-planning pipeline. I also serve on McMaster's Mars Rover Team, leading the rover's end-to-end communications system from concept through field deployment.
 
-Currently I conduct research in robotic grasp planning and manipulation under Dr. Gary Bone in McMaster's Department of Mechanical Engineering, and serve as Communications and Mechanical Subteam member on McMaster's Mars Rover Team, leading the end-to-end communications system from concept through field deployment.
-
-I am driven toward robotics hardware and systems engineering, progressively deepening from software and simulation into mechanical design and electrical systems, with a materials engineering foundation that sharpens how I think and build in the physical world.
+I build deliberately across the stack, from software and simulation into mechanical design and electrical systems, on a materials engineering foundation. My goal is to bring that breadth to robotic and mechatronic systems in aerospace and defense.
 
 ---
 
@@ -93,7 +91,7 @@ I am driven toward robotics hardware and systems engineering, progressively deep
   </div>
   <div class="col-sm-9">
     <strong><a href="/projects/camera_mount">2-DOF Pan-Tilt Camera System</a></strong><br>
-    <span class="text-muted">[Mechanical Design] @ McMaster Mars Rover Team (URC)</span><br>
+    <span class="text-muted">[Mechanical Design] @ McMaster Mars Rover Team (for URC 2027)</span><br>
     <strong>Complete.</strong> Sole designer of a servo-actuated pan-tilt camera mount featuring a custom 1:2 spur gear train, 608 ball bearing, and internal cable routing. Designed in SolidWorks and 3D printed in PLA. 360° pan, 180° tilt.
   </div>
 </div>
@@ -104,8 +102,8 @@ I am driven toward robotics hardware and systems engineering, progressively deep
   </div>
   <div class="col-sm-9">
     <strong><a href="/projects/dual_gps">Dual GPS Antenna Mounts</a></strong><br>
-    <span class="text-muted">[Mechanical Design] @ McMaster Mars Rover Team (URC)</span><br>
-    <strong>Complete.</strong> Primary and secondary GPS antenna mounts with 1-metre baseline spatial separation for antenna diversity and improved signal reliability. Designed in SolidWorks, 3D printed in PLA on a carbon fibre mast.
+    <span class="text-muted">[Mechanical Design] @ McMaster Mars Rover Team (for URC 2027)</span><br>
+    <strong>Complete.</strong> Primary and secondary GPS antenna mounts with 1-metre baseline spatial separation for antenna diversity and improved signal reliability. Designed in SolidWorks, FEA, 3D printed in PLA on a carbon fibre mast.
   </div>
 </div>
 
@@ -115,8 +113,8 @@ I am driven toward robotics hardware and systems engineering, progressively deep
   </div>
   <div class="col-sm-9">
     <strong><a href="/projects/grasp_detection">Power Grasp Detection on 3D Objects via Multi-Height Mesh Analysis</a></strong><br>
-    <span class="text-muted">[Robotics Research] @ McMaster Robtics and Manufacturing Automation Lab — referred by Dr. Gary Bone, PhD</span><br>
-    <strong>In progress</strong> A novel grasp-planning algorithm for robotic fruit-harvesting, validated on realistic depth-sensor data via a custom ROS 2/Gazebo perception-to-planning pipeline.
+    <span class="text-muted">[Robotics Research] @ McMaster Robtics and Manufacturing Automation Lab, Dr. Gary Bone</span><br>
+    <strong>In progress.</strong> A novel grasp-planning algorithm for robotic fruit-harvesting, validated on realistic depth-sensor data via a custom ROS 2/Gazebo perception-to-planning pipeline.
   </div>
 </div>
 
