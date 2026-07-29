@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - maya-leblanc/maya-leblanc.github.io
+  - maya-leblanc/agri-grasp-ros2 
   - maya-leblanc/project-aura
-  - maya-leblanc/PCL-ROS2-processing
-  - maya-leblanc/grasp-planning-system
+  - maya-leblanc/tf_sensor_ros2
+  - maya-leblanc/sledx
