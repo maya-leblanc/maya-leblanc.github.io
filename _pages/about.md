@@ -38,7 +38,15 @@ I am driven toward robotics hardware and systems engineering, progressively deep
   <img src="assets/img/skills/inventor.png" height="50" title="Autodesk Inventor" alt="Autodesk Inventor">
   <img src="assets/img/skills/revit.png" height="50" title="Revit" alt="Revit">
   <img src="assets/img/skills/3ds max.png" height="50" title="3dsMax" alt="3dsMax">
-  <img src="assets/img/skills/ansys.jpg" height="50" title="ANSYS" alt="ANSYS">
+  <img src="assets/img/skills/onshape.png" height="50" title="Onshape" alt="Onshape">
+</div>
+
+**Robotics & Hardware** 
+
+<div style="display:flex; flex-wrap:wrap; gap:0.75rem; align-items:center; margin: 1rem 0 2rem 0;">
+  <img src="assets/img/skills/arduino.svg" height="45" title="Arduino" alt="Arduino">
+  <img src="assets/img/skills/raspberrypi.svg" height="45" title="Raspberry Pi" alt="Raspberry Pi">
+  <img src="assets/img/skills/esp32.png" height="45" title="esp32 alt="esp32">
 </div>
 
 **Programming & Software**
@@ -48,28 +56,31 @@ I am driven toward robotics hardware and systems engineering, progressively deep
   <img src="assets/img/skills/matlab.svg" height="45" title="MATLAB" alt="MATLAB">
   <img src="assets/img/skills/ros2.png" height="45" title="ROS2" alt="ROS2">
   <img src="assets/img/skills/gazebo.svg" height="45" title="Gazebo" alt="Gazebo">
-  <img src="assets/img/skills/pcl.png" height="45" title="pcl" alt="pcl">
-  <img src="assets/img/skills/minitab.png" height="45" title="Minitab" alt="Minitab">
+  <img src="assets/img/skills/bash.png" height="45" title="Bash" alt="Bash">
+  <img src="assets/img/skills/open3d.png" height="45" title="open3d" alt="open3d">
+  <img src="assets/img/skills/git.png" height="45" title="git" alt="git">
+  <img src="assets/img/skills/numpy.png" height="45" title="numpy" alt="numpy">
+  <img src="assets/img/skills/scipy.png" height="45" title="scipy" alt="scipy">
+  <img src="assets/img/skills/ubuntu.jpg" height="45" title="ubuntu" alt="ubuntu">
 </div>
 
 
-**Documentation & Productivity**
+**Data & Research**
 
 <div style="display:flex; flex-wrap:wrap; gap:0.75rem; align-items:center; margin: 1rem 0 2rem 0;">
+  <img src="assets/img/skills/minitab.png" height="45" title="Minitab" alt="Minitab">
+  <img src="assets/img/skills/geo.png" height="45" title="NCBI GEO" alt="NCBI GEO">
+  <img src="assets/img/skills/excel.png" height="45" title="excel" alt="excel">
+</div>
+
+**Other**
+
+<div style="display:flex; flex-wrap:wrap; gap:0.75rem; align-items:center; margin: 1rem 0 2rem 0;">
+  <img src="assets/img/skills/ansys.jpg" height="50" title="ANSYS" alt="ANSYS">
   <img src="assets/img/skills/latex.svg" height="45" title="LaTeX" alt="LaTeX">
   <img src="assets/img/skills/microsoft365.svg" height="45" title="Microsoft 365" alt="Microsoft 365">
-  <img src="assets/img/skills/canva.svg" height="45" title="Canva" alt="Canva">
   <img src="assets/img/skills/photoshop.svg" height="45" title="Photoshop" alt="Photoshop">
   <img src="assets/img/skills/illustrator.svg" height="45" title="Illustrator" alt="Illustrator">
-  <img src="assets/img/skills/powerdirector.svg" height="45" title="PowerDirector" alt="PowerDirector">
-  <img src="assets/img/skills/cyberlink.svg" height="45" title="Cyberlink" alt="Cyberlink">
-</div>
-
-**Hardware & Technical**
-
-<div style="display:flex; flex-wrap:wrap; gap:0.75rem; align-items:center; margin: 1rem 0 2rem 0;">
-  <img src="assets/img/skills/arduino.svg" height="45" title="Arduino" alt="Arduino">
-  <img src="assets/img/skills/raspberrypi.svg" height="45" title="Raspberry Pi" alt="Raspberry Pi">
 </div>
 
 ---
