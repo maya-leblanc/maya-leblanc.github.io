@@ -44,7 +44,7 @@ I build deliberately across the stack, from software and simulation into mechani
 <div style="display:flex; flex-wrap:wrap; gap:0.75rem; align-items:center; margin: 1rem 0 2rem 0;">
   <img src="assets/img/skills/arduino.svg" height="45" title="Arduino" alt="Arduino">
   <img src="assets/img/skills/raspberrypi.svg" height="45" title="Raspberry Pi" alt="Raspberry Pi">
-  <img src="assets/img/skills/esp32.png" height="45" title="esp32 alt="esp32">
+  <img src="assets/img/skills/esp32.png" height="45" title="esp32" alt="esp32">
 </div>
 
 **Programming & Software**
