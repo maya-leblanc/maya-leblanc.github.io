@@ -35,10 +35,10 @@ Sole designer of a 2-degree-of-freedom (pan + tilt) actuated camera mount for **
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/camera_mount.jpg" title="2-DOF Pan-Tilt Camera System" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/ac_1.jpg" title="2-DOF Pan-Tilt Camera System" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/camera_mount_front.jpg" title="Front view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/ac_2.jpg" title="Most detailed view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
