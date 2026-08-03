@@ -18,11 +18,12 @@ latest_posts:
   enabled: false
 ---
 
-Hi! I am Maya, an engineering student at McMaster University. I've built a mind-controlled robotic hand, published independent scientific research twice, and founded my own research initiative at 17 - and across those projects the throughline is the same: I build the instruments and test rigs that turn open physical problems into working systems.
+Hi! I am Maya, an undergraduate Materials Engineering student at McMaster University. My core interest lies in mechanical and materials engineering for the aerospace and defense robotics sector. 
 
-I'm currently an undergraduate robotics researcher with Dr. Gary Bone (McMaster Mechanical Engineering, Robotics & Manufacturing Automation Lab), developing a novel grasp-planning algorithm and validating it on realistic depth-sensor data through a custom ROS 2 / Gazebo perception-to-planning pipeline. I also serve on McMaster's Mars Rover Team, leading the rover's end-to-end communications system from concept through field deployment.
+I'm currently an undergraduate robotics researcher with Dr. Gary Bone (McMaster Mechanical Engineering, Robotics & Manufacturing Automation Lab), developing a novel grasp-planning algorithm for agricultural robotics and validating it on realistic depth-sensor data through a custom ROS 2/Gazebo perception-to-planning pipeline. I also lead the communications subteam on McMaster's Mars Rover Team, owning the design, build, and field deployment of the rover's communications hardware end to end, the ground basestation, antenna, and pan-tilt camera assembly.
 
-I build deliberately across the stack, from software and simulation into mechanical design and electrical systems, on a materials engineering foundation. My goal is to bring that breadth to robotic and mechatronic systems in aerospace and defense.
+I'm driven by the challenge of building systems that observe, support, and endure - the sensing, structural, and platform side of engineering, meant to protect and enable rather than to cause harm. If you're interested in collaborating or connecting, please feel free to reach out!
+
 
 ---
 
@@ -87,7 +88,7 @@ I build deliberately across the stack, from software and simulation into mechani
 
 <div class="row mt-4 mb-4">
   <div class="col-sm-3">
-    <img src="assets/img/projects/2dofcam.png" class="img-fluid rounded z-depth-1" alt="2-DOF Pan-Tilt Camera System">
+    <img src="assets/img/projects/ac_1.jpg" class="img-fluid rounded z-depth-1" alt="2-DOF Pan-Tilt Camera System">
   </div>
   <div class="col-sm-9">
     <strong><a href="/projects/camera_mount">2-DOF Pan-Tilt Camera System</a></strong><br>
@@ -98,7 +99,7 @@ I build deliberately across the stack, from software and simulation into mechani
 
 <div class="row mt-4 mb-4">
   <div class="col-sm-3">
-    <img src="assets/img/projects/dual.png" class="img-fluid rounded z-depth-1" alt="Dual GPS Antenna Mounts">
+    <img src="assets/img/projects/prim_2.jpg" class="img-fluid rounded z-depth-1" alt="Dual GPS Antenna Mounts">
   </div>
   <div class="col-sm-9">
     <strong><a href="/projects/dual_gps">Dual GPS Antenna Mounts</a></strong><br>
