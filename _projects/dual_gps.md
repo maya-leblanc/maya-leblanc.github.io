@@ -35,10 +35,10 @@ A solo, ground-up mechanical and materials-engineering project for **McMaster's 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/dual_gps.jpg" title="Primary GPS antenna mount" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/prim_1.jpg" title="Primary GPS antenna mount" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/dual_gps_secondary.jpg" title="Secondary GPS antenna mount" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/sec_1.jpg" title="Secondary GPS antenna mount" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -79,6 +79,16 @@ A few other engineered details:
 - **Adjustability.** The carbon-fibre rod has three holes at its base; a clamp and clevis pin let me set the mast to one of three heights for alignment and fine-tuning in the field, with the pin passing through both walls of the clamp for a secure, symmetric hold.
 - **Ground plane.** The GPS antenna sits on a 3 mm-thick, 200 mm-diameter metal disc. A metal ground plane under a GPS antenna shapes its reception pattern and suppresses reflected (multipath) signals — too small and reception suffers, too large and you waste mass and space. I tested five diameters and **200 mm was the sweet spot.**
 - **Vibration damping.** The clamp joint at the base includes a dampener at the connection to help isolate vibration at the mount rather than along the whole link.
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/prim_2.jpg" title="Primary GPS zoom in" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/sec_2.jpg" title="Secondary GPS zoom in" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ## Analysis &amp; validation
 
