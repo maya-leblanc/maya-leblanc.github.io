@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dual-GPS Antenna Mast — Mars Rover
-description: Solo mechanical & materials design of a dual-GPS antenna mast for McMaster's Mars Rover (URC 2026) — PLA brackets on a hollow carbon-fibre mast carrying four antennas at a 1 m baseline, validated with modal FEA. In active development.
+description: Solo mechanical & materials design of a dual-GPS antenna mast for McMaster's Mars Rover (URC 2026), PLA brackets on a hollow carbon-fibre mast carrying four antennas at a 1 m baseline, validated with modal FEA. In active development.
 img: assets/img/projects/dual.png
 importance: 2
 category: robotics
@@ -69,15 +69,15 @@ Structurally, the mount had to survive **vibration and shock over rough terrain*
 
 ## Design &amp; materials
 
-The core decision was **splitting materials by job**. The brackets and antenna holders are **3D-printed PLA**: they're geometrically complex, carry relatively light antennas, and — crucially for a first build — PLA is cheap, fast to print, and easy to iterate on when a design changes. The load-bearing mast, which has to carry all that weight rigidly without adding mass, is a **hollow carbon-fibre rod** — carbon fibre gives an excellent stiffness-to-weight ratio, and making it hollow removes material from the center (which contributes little to stiffness) to save even more mass. In short: printed plastic for the intricate light parts, carbon fibre for the structural backbone.
+The core decision was **splitting materials by job**. The brackets and antenna holders are **3D-printed PLA**: they're geometrically complex, carry relatively light antennas, and, crucially for a first build, PLA is cheap, fast to print, and easy to iterate on when a design changes. The load-bearing mast, which has to carry all that weight rigidly without adding mass, is a **hollow carbon-fibre rod**, carbon fibre gives an excellent stiffness-to-weight ratio, and making it hollow removes material from the center (which contributes little to stiffness) to save even more mass. In short: printed plastic for the intricate light parts, carbon fibre for the structural backbone.
 
-*(Honest note on PLA: I chose it for prototyping speed and cost, and the test environment doesn't demand a specialized filament. PLA is the weakest material in the assembly, though — a known limitation I'm tracking through the analysis below, and a candidate to upgrade for the final competition build.)*
+*(Honest note on PLA: I chose it for prototyping speed and cost, and the test environment doesn't demand a specialized filament. PLA is the weakest material in the assembly, though, a known limitation I'm tracking through the analysis below, and a candidate to upgrade for the final competition build.)*
 
 A few other engineered details:
 
 - **Lightweighting.** Cut-out holes through the bottom of the main holder remove mass wherever the structure doesn't need it.
 - **Adjustability.** The carbon-fibre rod has three holes at its base; a clamp and clevis pin let me set the mast to one of three heights for alignment and fine-tuning in the field, with the pin passing through both walls of the clamp for a secure, symmetric hold.
-- **Ground plane.** The GPS antenna sits on a 3 mm-thick, 200 mm-diameter metal disc. A metal ground plane under a GPS antenna shapes its reception pattern and suppresses reflected (multipath) signals — too small and reception suffers, too large and you waste mass and space. I tested five diameters and **200 mm was the sweet spot.**
+- **Ground plane.** The GPS antenna sits on a 3 mm-thick, 200 mm-diameter metal disc. A metal ground plane under a GPS antenna shapes its reception pattern and suppresses reflected (multipath) signals, too small and reception suffers, too large and you waste mass and space. I tested five diameters and **200 mm was the sweet spot.**
 - **Vibration damping.** The clamp joint at the base includes a dampener at the connection to help isolate vibration at the mount rather than along the whole link.
 
 
@@ -94,7 +94,7 @@ A few other engineered details:
 
 **Modal (natural-frequency) FEA.** Every structure has frequencies it naturally "wants" to vibrate at. If the rover happens to shake the mount at one of those frequencies, the mount *amplifies* the shaking instead of absorbing it — like pushing a swing in rhythm — which could shake the GPS lock loose or fatigue-crack the PLA over time. So the goal is to keep the mount's resonances away from the vibration the rover actually produces. The analysis put the **first resonance at 48.7 Hz**, with the next modes at 58, 62, 74, and 83 Hz — well spaced, with nothing clustered in a way that would cause combined-resonance problems. The practical next step is to check that the drive motors' operating vibration doesn't land in that 48–83 Hz band; if it does, the fix is to stiffen the bracket (which pushes resonances higher) or add a rubber isolation mount.
 
-**Bolted-joint check.** From the 3 N·m tightening torque, all four counterbore screws carry roughly **2,350 N of axial preload**. One screw stands out: **Screw-4 sees ~116 N of shear — about 5× the others.** Shear is the force that snaps a bolt sideways or tears out the plastic hole around it, and because PLA is far weaker than the metal parts (~50 MPa tensile vs. 310+ MPa for the aluminum and steel), that screw location is the assembly's predicted weak point — exactly where I'd reinforce or add a gasket first.
+**Bolted-joint check.** From the 3 N·m tightening torque, all four counterbore screws carry roughly **2,350 N of axial preload**. One screw stands out: **Screw-4 sees ~116 N of shear, about 5× the others.** Shear is the force that snaps a bolt sideways or tears out the plastic hole around it, and because PLA is far weaker than the metal parts (~50 MPa tensile vs. 310+ MPa for the aluminum and steel), that screw location is the assembly's predicted weak point, exactly where I'd reinforce or add a gasket first.
 
 **What's still being validated.** The static stress and displacement results from the FEA are currently unreliable due to boundary-condition issues I'm still resolving, so I'm only trusting the modal frequencies and the locally-computed bolt loads for now. Sorting out those boundary conditions is part of the ongoing work before the build is finalized.
 
