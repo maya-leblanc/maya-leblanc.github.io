@@ -2,7 +2,7 @@
 layout: page
 title: Differential-Drive Mobile Robot — ROS 2 Simulation & LiDAR
 description: A differential-drive mobile robot simulated in ROS 2 Jazzy and Gazebo Harmonic — parametric URDF/Xacro model, 360° LiDAR integrated through the TF transform tree, ROS–Gazebo bridging, and keyboard teleoperation.
-#img: assets/img/projects/diffbot_gazebo.jpg
+img: assets/img/projects/gazebo.jpg
 importance: 6
 category: robotics
 related_publications: false
